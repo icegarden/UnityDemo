@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a569b1e-e29f-4007-9fe1-b7a1edd44b1f": {
+      "ProjectGuid": "1a569b1e-e29f-4007-9fe1-b7a1edd44b1f",
+      "DisplayName": "DemoILRuntime",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

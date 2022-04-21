@@ -1,0 +1,6 @@
+E:\workspace\unityProjects\Demo\Assets\StreamingAssets\DemoILRuntime.dll
+E:\workspace\unityProjects\Demo\Assets\StreamingAssets\DemoILRuntime.pdb
+E:\workspace\unityProjects\DemoILRuntime\obj\Debug\DemoILRuntime.csproj.CoreCompileInputs.cache
+E:\workspace\unityProjects\DemoILRuntime\obj\Debug\DemoILRuntime.dll
+E:\workspace\unityProjects\DemoILRuntime\obj\Debug\DemoILRuntime.pdb
+E:\workspace\unityProjects\DemoILRuntime\obj\Debug\DemoILRuntime.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+syntax = "proto2";
+message GetUser_C
+{
+    optional string puid=1;//平台用户id
+    optional string pid=2;//平台id
+    optional int32 sid=3;//服务器标识id
+    optional string token=4;//服务器验证用Token
+}
+message GetUser_S
+{
+    optional int32 code=1;//错误码 0登录成功 1未知错误
+    optional int64 guid=2;//唯一实例id
+    optional string name=3;//名字  
+    optional int32 cmTime=4;//沉迷时间(单位：ms)，被防沉迷的用户，记录沉迷时间，不被防沉迷的用户，`不传此值`
+}

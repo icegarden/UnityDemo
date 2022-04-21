@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildReport>
+    <Summary>
+      <ProductName>Demo</ProductName>
+      <CompanyName>DefaultCompany</CompanyName>
+      <GameIdentifier>com.DefaultCompany.Demo</GameIdentifier>
+      <GameFrameworkVersion>2021.05.31</GameFrameworkVersion>
+      <UnityVersion>2021.1.20f1c1</UnityVersion>
+      <ApplicableGameVersion>0.1</ApplicableGameVersion>
+      <InternalResourceVersion>5</InternalResourceVersion>
+      <Platforms>Windows</Platforms>
+      <AssetBundleCompression>LZ4</AssetBundleCompression>
+      <CompressionHelperTypeName>UnityGameFramework.Runtime.DefaultCompressionHelper</CompressionHelperTypeName>
+      <AdditionalCompressionSelected>True</AdditionalCompressionSelected>
+      <ForceRebuildAssetBundleSelected>True</ForceRebuildAssetBundleSelected>
+      <BuildEventHandlerTypeName>
+      </BuildEventHandlerTypeName>
+      <OutputDirectory>E:/workspace/unityProjects/Demo/AssetsBuildOut</OutputDirectory>
+      <BuildAssetBundleOptions>DeterministicAssetBundle, ForceRebuildAssetBundle, ChunkBasedCompression</BuildAssetBundleOptions>
+    </Summary>
+    <Resources Count="37">
+      <Resource Name="Configs" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="159">
+          <Asset Guid="00400b6cefdcda54b85f43a6821c69ed" Name="Assets/GameMain/Assets/Configs/RoleStar.json" Length="1558" HashCode="709061913" />
+          <Asset Guid="02a3d2784a67545439b5163e0bcbba0a" Name="Assets/GameMain/Assets/Configs/Npc.json" Length="2658" HashCode="1565385628" />
+          <Asset Guid="068f1538e8458f54c9e077a6bf118cb9" Name="Assets/GameMain/Assets/Configs/BuffEffect.json" Length="16159" HashCode="-1357749359" />
+          <Asset Guid="095e750446c6f6b4a8daef347a51581c" Name="Assets/GameMain/Assets/Configs/ShipPart.json" Length="1531" HashCode="2107695941" />
+          <Asset Guid="0cbfb158ce94d9049b76120828f015e1" Name="Assets/GameMain/Assets/Configs/ArenaScoreCalc.json" Length="725" HashCode="1515687916" />
+          <Asset Guid="0dfb29621d1ac7f4cb6abb733c59eef5" Name="Assets/GameMain/Assets/Configs/BagExtends.json" Length="257" HashCode="939914437" />
+          <Asset Guid="0ee2b82649858574c9ceebdb2bfd89e8" Name="Assets/GameMain/Assets/Configs/PetBookLevel.json" Length="1026" HashCode="-1955249161" />
+          <Asset Guid="14b66722b94620441bfa17eadf909ee5" Name="Assets/GameMain/Assets/Configs/GuildBuild.json" Length="82" HashCode="1665704345" />
+          <Asset Guid="16ab8c3a01cb11243a26843a94956b39" Name="Assets/GameMain/Assets/Configs/RoleLevel.json" Length="2092" HashCode="-942534312" />
+          <Asset Guid="176962db7daa7dc4a9923582d60b8f68" Name="Assets/GameMain/Assets/Configs/Pet.json" Length="49493" HashCode="1778264766" />
+          <Asset Guid="18746481941128f4e8f670d2bd11a91c" Name="Assets/GameMain/Assets/Configs/DungeonRoom.json" Length="12683" HashCode="1403849838" />
+          <Asset Guid="19abdfe990e80f348bb5d6b1fdd1b003" Name="Assets/GameMain/Assets/Configs/HalidomPassive.json" Length="4745" HashCode="881060903" />
+          <Asset Guid="1b5e4a500921e5f43849a4fd54228348" Name="Assets/GameMain/Assets/Configs/LingZhuInviteLevel.json" Length="808" HashCode="-1271973278" />
+          <Asset Guid="1c0c6f4a642443f47b0d2ab8d3a5219d" Name="Assets/GameMain/Assets/Configs/Pata.json" Length="1775" HashCode="286727477" />
+          <Asset Guid="1d360ca322b6a5941bc8b78cbe68fece" Name="Assets/GameMain/Assets/Configs/HomeBuild.json" Length="2506" HashCode="1528522949" />
+          <Asset Guid="1e6991571ebd420439395484e32a5e0b" Name="Assets/GameMain/Assets/Configs/HalidomLevel.json" Length="2205" HashCode="-1182656190" />
+          <Asset Guid="1f162800bba2e3e408abbec157660d76" Name="Assets/GameMain/Assets/Configs/GuildOrderTask.json" Length="3532" HashCode="1946092353" />
+          <Asset Guid="1f628cda90e46084480a64072dbc7568" Name="Assets/GameMain/Assets/Configs/PetEvolve.json" Length="15748" HashCode="908964790" />
+          <Asset Guid="20d3c0866139bf94eb0a0664f966a6a1" Name="Assets/GameMain/Assets/Configs/Preload.json" Length="5773" HashCode="1385542371" />
+          <Asset Guid="244412773798eab418dc8932f3b0d4c7" Name="Assets/GameMain/Assets/Configs/LingZhuInviteTask.json" Length="3937" HashCode="34299413" />
+          <Asset Guid="24cb688d58ae6d045b70a2c8d9e05dae" Name="Assets/GameMain/Assets/Configs/Skill.json" Length="289222" HashCode="1317072519" />
+          <Asset Guid="26125d77e0170874790d94aac2880a5d" Name="Assets/GameMain/Assets/Configs/GuildSeniorOrder.json" Length="355" HashCode="-944180594" />
+          <Asset Guid="291efa16b24dbcc4c92a9c28edf719f3" Name="Assets/GameMain/Assets/Configs/Buff.json" Length="45998" HashCode="982726757" />
+          <Asset Guid="2b68049cd3abf1c408d0044782dc2e05" Name="Assets/GameMain/Assets/Configs/PetEvolveAttr.json" Length="4537" HashCode="1949625441" />
+          <Asset Guid="2d3d87c3120981d448ca2139b49c33c2" Name="Assets/GameMain/Assets/Configs/EquipElementAffinity.json" Length="697" HashCode="916236193" />
+          <Asset Guid="2dc6bc78cfc20c04bbbb2b58c21f6f8f" Name="Assets/GameMain/Assets/Configs/DungeonRoguelike.json" Length="1553" HashCode="1110031628" />
+          <Asset Guid="305f2d411664485489594d5867ea2b3a" Name="Assets/GameMain/Assets/Configs/MissionReward.json" Length="1017" HashCode="-901190634" />
+          <Asset Guid="36a50b26ec39207448403f601516e7eb" Name="Assets/GameMain/Assets/Configs/PetSign.json" Length="3475" HashCode="55498707" />
+          <Asset Guid="36b591c776cb1f84c87470fd0b229c6c" Name="Assets/GameMain/Assets/Configs/Squad.json" Length="301" HashCode="-556190992" />
+          <Asset Guid="37bf897956a9ff4408f5c4e2e4be1017" Name="Assets/GameMain/Assets/Configs/DungeonEvent.json" Length="19090" HashCode="-336422334" />
+          <Asset Guid="3c298d406e1333341a9ccef6f23a1578" Name="Assets/GameMain/Assets/Configs/SquareGroup.json" Length="295" HashCode="1645140479" />
+          <Asset Guid="3c8534cf647513a4e88334ad27128913" Name="Assets/GameMain/Assets/Configs/passiveeffect.json" Length="20151" HashCode="417684902" />
+          <Asset Guid="3cba6af752f469842878c1651f34a407" Name="Assets/GameMain/Assets/Configs/LingZhuInviteBoss.json" Length="1761" HashCode="-793724611" />
+          <Asset Guid="3cf9513d4c3617d4392e547e9027c672" Name="Assets/GameMain/Assets/Configs/GuildAuthority.json" Length="619" HashCode="234357832" />
+          <Asset Guid="3d6ec82fd4c488f42a45df43ab08b094" Name="Assets/GameMain/Assets/Configs/WorldEventType.json" Length="1009" HashCode="-1040720397" />
+          <Asset Guid="3ee0b31e8e53e5749918b702bc780fe7" Name="Assets/GameMain/Assets/Configs/DungeonBuyCount.json" Length="476" HashCode="-1254554603" />
+          <Asset Guid="40f08277a4b3f3d4196015d20b699e5d" Name="Assets/GameMain/Assets/Configs/ShopType.json" Length="687" HashCode="1548039046" />
+          <Asset Guid="4129564592f1d8f4abee10701daaddfc" Name="Assets/GameMain/Assets/Configs/BuyCountPrice.json" Length="913" HashCode="1240717853" />
+          <Asset Guid="458dde0086d38ec458cc9ee715aa72ad" Name="Assets/GameMain/Assets/Configs/GuildOrder.json" Length="55" HashCode="-1965509614" />
+          <Asset Guid="465084f090370414f86851cd3d1139eb" Name="Assets/GameMain/Assets/Configs/DungeonMap.json" Length="4945" HashCode="-2064170778" />
+          <Asset Guid="474ec883a6562914d954875d236e1bf9" Name="Assets/GameMain/Assets/Configs/Halidom.json" Length="6307" HashCode="-1570542940" />
+          <Asset Guid="4edc9cd47e0158b4395f4ade0e3dcd7d" Name="Assets/GameMain/Assets/Configs/Quality.json" Length="398" HashCode="-292848040" />
+          <Asset Guid="4f07e63ddf8c94148968c2e6918822df" Name="Assets/GameMain/Assets/Configs/PetNature.json" Length="337" HashCode="-383123294" />
+          <Asset Guid="4ffab149eb6742e4bbd36711b0667ab0" Name="Assets/GameMain/Assets/Configs/DungeonLobby.json" Length="84" HashCode="1276112034" />
+          <Asset Guid="500e43f3ae151a9408ccdca9d7bdcc81" Name="Assets/GameMain/Assets/Configs/WorldPve.json" Length="1345" HashCode="-1686848798" />
+          <Asset Guid="534bc29b46709224791295ec2adf0d98" Name="Assets/GameMain/Assets/Configs/StoryTrigger.json" Length="256" HashCode="2147370003" />
+          <Asset Guid="53c64534c06de1c409557188167be89d" Name="Assets/GameMain/Assets/Configs/PetEquip.json" Length="2835" HashCode="-1221406426" />
+          <Asset Guid="544d0715a22c96144b69f40fb6f4afaa" Name="Assets/GameMain/Assets/Configs/Debris.json" Length="742" HashCode="118374003" />
+          <Asset Guid="54651e6876ac0b3488d1b9060da86e66" Name="Assets/GameMain/Assets/Configs/Seed.json" Length="421" HashCode="-818979998" />
+          <Asset Guid="553cfe0d87699d7479d13792f43a1867" Name="Assets/GameMain/Assets/Configs/SuffixIdentifyLevel.json" Length="1567" HashCode="1592267033" />
+          <Asset Guid="56d31dcdc8705914e841e951caedfb59" Name="Assets/GameMain/Assets/Configs/ArenaScoreStep.json" Length="264" HashCode="-1328260993" />
+          <Asset Guid="5852cd06ab25f38439f2e0b6e60857f0" Name="Assets/GameMain/Assets/Configs/Condition.json" Length="921" HashCode="1555952400" />
+          <Asset Guid="58c3c5ec90b43fe4c99db55ca15a78e5" Name="Assets/GameMain/Assets/Configs/PetSoulSlot.json" Length="437" HashCode="679840354" />
+          <Asset Guid="5a9761ce65a88df4d96a37f8b59c33a4" Name="Assets/GameMain/Assets/Configs/GuildLog.json" Length="406" HashCode="-377238825" />
+          <Asset Guid="5a9fe4bb6c5998f4b8a7e99ef8ed6921" Name="Assets/GameMain/Assets/Configs/PetEquipLevel.json" Length="3484" HashCode="460452137" />
+          <Asset Guid="5b13433595f59074a9997bbd090d8130" Name="Assets/GameMain/Assets/Configs/AssignRegion.json" Length="1340" HashCode="968239730" />
+          <Asset Guid="5dc979e5b28138b40b15efb2b025aec2" Name="Assets/GameMain/Assets/Configs/PetFetter.json" Length="984" HashCode="-1718863391" />
+          <Asset Guid="6454dd5e204af864f96e003d6543e27d" Name="Assets/GameMain/Assets/Configs/GuildLevel.json" Length="403" HashCode="2088950627" />
+          <Asset Guid="64a3471a9a513094c954628b38b4642e" Name="Assets/GameMain/Assets/Configs/PetEgg.json" Length="361" HashCode="693803885" />
+          <Asset Guid="659afcde3d72fc34d9463b9565868413" Name="Assets/GameMain/Assets/Configs/ArenaBot.json" Length="1488" HashCode="153912338" />
+          <Asset Guid="66475142f7c74b148aad9c83cddb34f2" Name="Assets/GameMain/Assets/Configs/ShopItem.json" Length="3313" HashCode="943941067" />
+          <Asset Guid="6648de84a5f39f64b84f375806a57b2a" Name="Assets/GameMain/Assets/Configs/Attribute.json" Length="3639" HashCode="-195812518" />
+          <Asset Guid="6684da23b6ab45a4495641f6f6eadde2" Name="Assets/GameMain/Assets/Configs/ArenaScoreReset.json" Length="164" HashCode="1674522915" />
+          <Asset Guid="670def8880e7523418282baa408f4896" Name="Assets/GameMain/Assets/Configs/AssignTask.json" Length="34939" HashCode="918504640" />
+          <Asset Guid="674f7041b4bf931428395b9ccc6571b6" Name="Assets/GameMain/Assets/Configs/Monster.json" Length="17378" HashCode="2019272370" />
+          <Asset Guid="676cd36ee39ab414d8fe335669a27a92" Name="Assets/GameMain/Assets/Configs/PetPotShop.json" Length="657" HashCode="1823873405" />
+          <Asset Guid="683b1fa0b6045314c9d4ebb5b7b42b39" Name="Assets/GameMain/Assets/Configs/ArtifactLevel.json" Length="1093" HashCode="-1054813180" />
+          <Asset Guid="699c1bff3ea5d064c9893328a1a22e4d" Name="Assets/GameMain/Assets/Configs/ItemGetUse.json" Length="995" HashCode="367207621" />
+          <Asset Guid="6b63cca4b323ba94d9783513486691e5" Name="Assets/GameMain/Assets/Configs/skilllevel.json" Length="56737" HashCode="1310438480" />
+          <Asset Guid="6c4a3a5f176033d47a2dcd6bc97b1a89" Name="Assets/GameMain/Assets/Configs/MonsterLevelAttr.json" Length="1880" HashCode="-775172191" />
+          <Asset Guid="6efb58314fb97f345934903d6ba22f72" Name="Assets/GameMain/Assets/Configs/ArenaReward.json" Length="899" HashCode="-380747226" />
+          <Asset Guid="6f51436bf79e53247a3c5c6005295a29" Name="Assets/GameMain/Assets/Configs/Mission.json" Length="2882" HashCode="-1190197676" />
+          <Asset Guid="731ee1309c38ce848855528ac5c1e4b4" Name="Assets/GameMain/Assets/Configs/SuffixValue.json" Length="66383" HashCode="-498624877" />
+          <Asset Guid="75ca8921b2461fc46875a0a881ce38c9" Name="Assets/GameMain/Assets/Configs/Ship.json" Length="237" HashCode="1878682152" />
+          <Asset Guid="75e9d2f7b059c7c469ae85ed588472bc" Name="Assets/GameMain/Assets/Configs/Appear.json" Length="263" HashCode="1883260782" />
+          <Asset Guid="7686662cc71f9f940b15a6b7ea98c8f0" Name="Assets/GameMain/Assets/Configs/PetSoulGroup.json" Length="2479" HashCode="245828939" />
+          <Asset Guid="79698234ceb471048a408495ad467216" Name="Assets/GameMain/Assets/Configs/RoleCombine.json" Length="319" HashCode="-2066565518" />
+          <Asset Guid="7a2369f5f0d747b4bb13f6e0da6e3e81" Name="Assets/GameMain/Assets/Configs/HalidomStar.json" Length="1381" HashCode="1217524320" />
+          <Asset Guid="7a7db07f145b39c45b499c5bd6a83e3e" Name="Assets/GameMain/Assets/Configs/ShipStar.json" Length="2485" HashCode="-647800744" />
+          <Asset Guid="7add34a5e3ae7c74895bc95ca870cb01" Name="Assets/GameMain/Assets/Configs/MapSquad.json" Length="1881" HashCode="1917005864" />
+          <Asset Guid="7bc4ed0bc9798bd4680c54b819f9a694" Name="Assets/GameMain/Assets/Configs/MonsterStaticAttr.json" Length="11232" HashCode="-1348381430" />
+          <Asset Guid="7bf9df047c8a83241aa41744af5fb3b0" Name="Assets/GameMain/Assets/Configs/DungeonTreasure.json" Length="101" HashCode="1342429215" />
+          <Asset Guid="7d185a0894c77df4780dbdef9f0e0c6a" Name="Assets/GameMain/Assets/Configs/PetGrow.json" Length="66448" HashCode="277837764" />
+          <Asset Guid="7dd1c831debe4b64da5647c3e43a32a9" Name="Assets/GameMain/Assets/Configs/MonsterAwakeAttr.json" Length="4938" HashCode="-312109335" />
+          <Asset Guid="7e1cd3b521f28384d9373f26d55fc621" Name="Assets/GameMain/Assets/Configs/DungeonAbysm.json" Length="57" HashCode="-201156893" />
+          <Asset Guid="7e8fb3dcdd0d49e428ba112b7fad73bb" Name="Assets/GameMain/Assets/Configs/PetSlotExtends.json" Length="257" HashCode="451469747" />
+          <Asset Guid="8066c881eb6ef2b46bff196642f858b1" Name="Assets/GameMain/Assets/Configs/WorldCityArena.json" Length="118" HashCode="1565164664" />
+          <Asset Guid="844dfbf532f56e24ab7553a99dbff700" Name="Assets/GameMain/Assets/Configs/Language.json" Length="62985" HashCode="-1969791828" />
+          <Asset Guid="889551613d85a8b4780d27bbadbd8106" Name="Assets/GameMain/Assets/Configs/WorldTalent.json" Length="21733" HashCode="1918674675" />
+          <Asset Guid="8940e7ae63010db4ab5af4543edd26b0" Name="Assets/GameMain/Assets/Configs/MonsterEvolveAttr.json" Length="62321" HashCode="1056951140" />
+          <Asset Guid="8b8aa77f007640e4586bb323cba3b8be" Name="Assets/GameMain/Assets/Configs/Relics.json" Length="9921" HashCode="1288429810" />
+          <Asset Guid="8c03e7c16faba124e9a96bb9cf5ab598" Name="Assets/GameMain/Assets/Configs/FarmWater.json" Length="151" HashCode="1536299970" />
+          <Asset Guid="8d45f5eeae8662945813e25fd82a7c6e" Name="Assets/GameMain/Assets/Configs/PetSkillGrow.json" Length="938" HashCode="-1236475100" />
+          <Asset Guid="9396dccc1dcf6484f8f99e2f2833717e" Name="Assets/GameMain/Assets/Configs/ShipAttr.json" Length="151" HashCode="1247800968" />
+          <Asset Guid="95c71bb6d6203cd4dbf19ea8caed1919" Name="Assets/GameMain/Assets/Configs/SuffixQuality.json" Length="237" HashCode="1256957808" />
+          <Asset Guid="96faa295d56bdcf48a257d9647a0eba7" Name="Assets/GameMain/Assets/Configs/GuildPosition.json" Length="438" HashCode="-1302174800" />
+          <Asset Guid="9718788f72acf34498fc16a10214f223" Name="Assets/GameMain/Assets/Configs/KongMoLingZhuLevel.json" Length="1981" HashCode="1126348380" />
+          <Asset Guid="97454d22c213cfe408cdeeaca5877bae" Name="Assets/GameMain/Assets/Configs/GuildOrderType.json" Length="382" HashCode="1193532423" />
+          <Asset Guid="9931e211b7904344fbd15e1d0b95da12" Name="Assets/GameMain/Assets/Configs/RandomName.json" Length="86603" HashCode="925312975" />
+          <Asset Guid="996019b684b27fa4caebdd2064bb3a76" Name="Assets/GameMain/Assets/Configs/WorldRegion.json" Length="365" HashCode="112531716" />
+          <Asset Guid="9ab66a54d0a017e408863890953173b9" Name="Assets/GameMain/Assets/Configs/PetAwake.json" Length="400" HashCode="452824594" />
+          <Asset Guid="9fd84c12856bc3547928353072e8fa86" Name="Assets/GameMain/Assets/Configs/SuffixIdentifyCost.json" Length="461" HashCode="-430089579" />
+          <Asset Guid="a12e755f43fffba4a8548d600a291040" Name="Assets/GameMain/Assets/Configs/SquareSlot.json" Length="295" HashCode="1645140479" />
+          <Asset Guid="a1447480f9ffaf14a9d3a941dbd99c27" Name="Assets/GameMain/Assets/Configs/HeadSlot.json" Length="347" HashCode="-1086987160" />
+          <Asset Guid="a177f22587f22fb468cd0e812cd0ab6f" Name="Assets/GameMain/Assets/Configs/PetSoul.json" Length="574" HashCode="85707142" />
+          <Asset Guid="a886877cc73e9144ea29446517531749" Name="Assets/GameMain/Assets/Configs/Unlock.json" Length="407" HashCode="-519125359" />
+          <Asset Guid="aed80e3d2bb4e904281b506a3937781e" Name="Assets/GameMain/Assets/Configs/RelicsPool.json" Length="45" HashCode="1081823273" />
+          <Asset Guid="b02065a38570b06488e15354e92ecf20" Name="Assets/GameMain/Assets/Configs/PetPot.json" Length="883" HashCode="1399909796" />
+          <Asset Guid="b2239bf4bdabc7a40b22652bc6dcdd1a" Name="Assets/GameMain/Assets/Configs/HomeSlot.json" Length="580" HashCode="-325596716" />
+          <Asset Guid="b5db343e1b2441940bbecc30e5e56f48" Name="Assets/GameMain/Assets/Configs/EquipStarUpgrade.json" Length="532" HashCode="1468042684" />
+          <Asset Guid="b5fa4701cbfbd4144b9c93d142be0095" Name="Assets/GameMain/Assets/Configs/BossList.json" Length="561" HashCode="1106256738" />
+          <Asset Guid="b6162bbc851fab443936c6034f990636" Name="Assets/GameMain/Assets/Configs/SuffixIdentifyItem.json" Length="1875" HashCode="-1270670943" />
+          <Asset Guid="b67838910a6c54b429cf160f859cbe88" Name="Assets/GameMain/Assets/Configs/HalidomSuit.json" Length="385" HashCode="1937409701" />
+          <Asset Guid="b705b310448f15d4681bca18b23cd6cd" Name="Assets/GameMain/Assets/Configs/GuildLogo.json" Length="406" HashCode="1664221028" />
+          <Asset Guid="b7c1776babc4b9b4ca14e6d74238da41" Name="Assets/GameMain/Assets/Configs/PetSignLevel.json" Length="21164" HashCode="1435399196" />
+          <Asset Guid="b85035b78bc154a45a1261ceaaf7d893" Name="Assets/GameMain/Assets/Configs/GuildPopMenu.json" Length="440" HashCode="1809212308" />
+          <Asset Guid="b8fb137ab1681f742b3082ee7f2f3972" Name="Assets/GameMain/Assets/Configs/WorldShop.json" Length="840" HashCode="874657495" />
+          <Asset Guid="b96ed9bc4b25ef740a45970237ed0924" Name="Assets/GameMain/Assets/Configs/WorldReward.json" Length="3489" HashCode="-1457414493" />
+          <Asset Guid="ba8fbb6cf3a91fc498103e39c53911b2" Name="Assets/GameMain/Assets/Configs/Suffix.json" Length="1751" HashCode="-86415020" />
+          <Asset Guid="bad90ca6e63ae9b4199d2288d5cb50fd" Name="Assets/GameMain/Assets/Configs/SuffixCount.json" Length="3192" HashCode="-1864802784" />
+          <Asset Guid="bb40e0731dfa3a541b05d0d7a735d9e2" Name="Assets/GameMain/Assets/Configs/PetSignAttr.json" Length="7413" HashCode="-1066475445" />
+          <Asset Guid="bdfca7632e048e24984a1686cc558c1b" Name="Assets/GameMain/Assets/Configs/WorldCity.json" Length="1272" HashCode="2080344199" />
+          <Asset Guid="c032cf4535dd7594784d03e9dbae1141" Name="Assets/GameMain/Assets/Configs/ArtifactTalent.json" Length="9373" HashCode="259683051" />
+          <Asset Guid="c177bc44568a84440bf16c258551996b" Name="Assets/GameMain/Assets/Configs/ArtifactTalentLevel.json" Length="34329" HashCode="-300107937" />
+          <Asset Guid="c223ff43f1c4b0748971300dc9a28f27" Name="Assets/GameMain/Assets/Configs/DebrisRefresh.json" Length="149" HashCode="-374761867" />
+          <Asset Guid="c39889740c0421f48a9b0c8ecf0c7582" Name="Assets/GameMain/Assets/Configs/PetSoulLevel.json" Length="181" HashCode="-115010266" />
+          <Asset Guid="c8151c229aee8c44c83ff556329ffdd7" Name="Assets/GameMain/Assets/Configs/WorldTalentLevel.json" Length="43357" HashCode="1176742781" />
+          <Asset Guid="ca14da89f7996e84bac21ee445a13117" Name="Assets/GameMain/Assets/Configs/Equip.json" Length="4097" HashCode="1901969513" />
+          <Asset Guid="ce1adc7725bf97b46ab87b8047374cb1" Name="Assets/GameMain/Assets/Configs/Promote.json" Length="518" HashCode="1251625323" />
+          <Asset Guid="ceee7ffb956b84a43ab850b5be9f50de" Name="Assets/GameMain/Assets/Configs/ArenaDailyReward.json" Length="899" HashCode="-380747226" />
+          <Asset Guid="cf760588f2efd844987d4acf585131e3" Name="Assets/GameMain/Assets/Configs/SuffixGroup.json" Length="610" HashCode="-1166606418" />
+          <Asset Guid="d231d0c722af0fb4789d1887bfa610c8" Name="Assets/GameMain/Assets/Configs/PetStaticAttr.json" Length="4780" HashCode="1873809011" />
+          <Asset Guid="d34322e563e30814ab5b27fdde71387b" Name="Assets/GameMain/Assets/Configs/MonsterSquad.json" Length="31474" HashCode="-51590647" />
+          <Asset Guid="d4394271ac5329e45a82d50e88a544fe" Name="Assets/GameMain/Assets/Configs/PetSecondAwake.json" Length="2353" HashCode="169460213" />
+          <Asset Guid="d56d4c1926e96dc46ae76e2bcb848dc8" Name="Assets/GameMain/Assets/Configs/Chapter.json" Length="1325" HashCode="-1340015622" />
+          <Asset Guid="d61d475195b4e1145aa91e82e40bdb00" Name="Assets/GameMain/Assets/Configs/Artifact.json" Length="410" HashCode="-718286214" />
+          <Asset Guid="d710cdf08c80ac846a7eef8b8a710122" Name="Assets/GameMain/Assets/Configs/Role.json" Length="842" HashCode="-36203390" />
+          <Asset Guid="d85407c4d68255e468da58e3733a9b66" Name="Assets/GameMain/Assets/Configs/LingZhuInviteBuff.json" Length="471" HashCode="1110248794" />
+          <Asset Guid="da4426c510ec1e3458d13919a4b8859f" Name="Assets/GameMain/Assets/Configs/GuanKa.json" Length="136262" HashCode="-1864340391" />
+          <Asset Guid="dbf698477b0f59047b9b5c6c1f9c0c80" Name="Assets/GameMain/Assets/Configs/User.json" Length="2717" HashCode="-90304772" />
+          <Asset Guid="dc282efdfed6ca545b7c933a3469b7ea" Name="Assets/GameMain/Assets/Configs/EmailNotice.json" Length="896" HashCode="-1268502440" />
+          <Asset Guid="dcb2bd15145f8984cadfbb040d330ebb" Name="Assets/GameMain/Assets/Configs/DungeonDesc.json" Length="405" HashCode="1238201585" />
+          <Asset Guid="dcc5ac8b941bdb04d995cdb028506611" Name="Assets/GameMain/Assets/Configs/KongMoLingZhuReward.json" Length="531" HashCode="1857765420" />
+          <Asset Guid="e3303a55b1805c54d9e521f034aec200" Name="Assets/GameMain/Assets/Configs/Global.json" Length="1602" HashCode="-1453538824" />
+          <Asset Guid="e51a35814c3cdb94c98754f31c4f8978" Name="Assets/GameMain/Assets/Configs/Story.json" Length="10175" HashCode="-1303106534" />
+          <Asset Guid="e57acc2c124878f429f42ef9ec616c98" Name="Assets/GameMain/Assets/Configs/treeBuff.json" Length="4660" HashCode="-1779121510" />
+          <Asset Guid="e77ee58d81629fe4d8292804d177d779" Name="Assets/GameMain/Assets/Configs/HitScale.json" Length="83" HashCode="863711604" />
+          <Asset Guid="e84b42865cdef19489f57872b6d80e68" Name="Assets/GameMain/Assets/Configs/Module.json" Length="243" HashCode="2134893478" />
+          <Asset Guid="e8affec9f5affcd4f8d03bd7fef5be6c" Name="Assets/GameMain/Assets/Configs/WorldEvent.json" Length="4545" HashCode="-549720559" />
+          <Asset Guid="e95e02236684849489aec3e3cf50dac8" Name="Assets/GameMain/Assets/Configs/WorldShopProp.json" Length="2940" HashCode="536732047" />
+          <Asset Guid="eba5f86c8f7c97641b43b246d255bed9" Name="Assets/GameMain/Assets/Configs/SeedGrow.json" Length="1443" HashCode="-1418373276" />
+          <Asset Guid="ebef2b1b832e83248abd70414ed8572e" Name="Assets/GameMain/Assets/Configs/HomeBuildLevel.json" Length="2053" HashCode="1332595086" />
+          <Asset Guid="ed5636d7f3eb9d046ae0bea57caee623" Name="Assets/GameMain/Assets/Configs/DungeonShop.json" Length="608" HashCode="1538977389" />
+          <Asset Guid="f5912dabd0281ee47a0916540a81c3c1" Name="Assets/GameMain/Assets/Configs/skilleffect.json" Length="47556" HashCode="962965293" />
+          <Asset Guid="f7fdcbb20a43d9c4297e343fe23df1c3" Name="Assets/GameMain/Assets/Configs/GuildSeniorLevel.json" Length="1582" HashCode="-1506522682" />
+          <Asset Guid="fa52f407f923ff645ad22dfb6edf8b79" Name="Assets/GameMain/Assets/Configs/FarmSlotUnlock.json" Length="1039" HashCode="-1210491525" />
+          <Asset Guid="fbb4879ed47b2e743ae710193900364e" Name="Assets/GameMain/Assets/Configs/Map.json" Length="29401" HashCode="-967045679" />
+          <Asset Guid="fd572ec1d362fa34aa48a279e951368a" Name="Assets/GameMain/Assets/Configs/Item.json" Length="91537" HashCode="-144774512" />
+          <Asset Guid="fe210fca3d9f47440a3aa7b79eeebf87" Name="Assets/GameMain/Assets/Configs/GuildMemberOrder.json" Length="75" HashCode="1836501726" />
+        </Assets>
+        <Codes>
+          <Windows Length="248725" HashCode="2054032971" CompressedLength="180024" CompressedHashCode="-285485238" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Adventrue" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="0fc3e39b3e5244345a5a4d945f2a3e36" Name="Assets/GameMain/Assets/UI/Adventure_fui.bytes" Length="1770" HashCode="48116620" />
+          <Asset Guid="4681f29321bfda54fb29e3ec5f17ed7c" Name="Assets/GameMain/Assets/UI/Adventure_atlas0.png" Length="2046" HashCode="-55464969" />
+        </Assets>
+        <Codes>
+          <Windows Length="7901" HashCode="-1788031605" CompressedLength="6360" CompressedHashCode="131730169" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Arena" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="95d01961b5113484b904e9910845d9d6" Name="Assets/GameMain/Assets/UI/Arena_atlas0.png" Length="345956" HashCode="-1000367575" />
+          <Asset Guid="b5ca201ae78241c4686edebc228f4bd0" Name="Assets/GameMain/Assets/UI/Arena_fui.bytes" Length="24164" HashCode="-1506969994" />
+        </Assets>
+        <Codes>
+          <Windows Length="212305" HashCode="-796997709" CompressedLength="185981" CompressedHashCode="1465449852" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Artifact" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="120c44970067184489b45804a20ead56" Name="Assets/GameMain/Assets/UI/Artifact_atlas0.png" Length="341397" HashCode="-1574590275" />
+          <Asset Guid="51b491542fd0ae24a92aa001a4cf790d" Name="Assets/GameMain/Assets/UI/Artifact_fui.bytes" Length="33036" HashCode="2120753498" />
+        </Assets>
+        <Codes>
+          <Windows Length="205470" HashCode="764710929" CompressedLength="189928" CompressedHashCode="-1119499907" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Assign" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="372e23be240a48946aff3ea838061b3f" Name="Assets/GameMain/Assets/UI/Assign_fui.bytes" Length="19700" HashCode="-1769647055" />
+          <Asset Guid="64d07508711039948b53bc5fe52c7dcf" Name="Assets/GameMain/Assets/UI/Assign_atlas0.png" Length="573787" HashCode="96318908" />
+        </Assets>
+        <Codes>
+          <Windows Length="388132" HashCode="-771649521" CompressedLength="355225" CompressedHashCode="1302475978" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Bag" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="370867e370837c243aa5d2e900e31d12" Name="Assets/GameMain/Assets/UI/Bag_fui.bytes" Length="26019" HashCode="-1415155386" />
+          <Asset Guid="a3d2070ac5322ab4f9583e8f0e08c527" Name="Assets/GameMain/Assets/UI/Bag_atlas0.png" Length="14551" HashCode="1827482383" />
+        </Assets>
+        <Codes>
+          <Windows Length="21320" HashCode="680736004" CompressedLength="18018" CompressedHashCode="-1111189860" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Battle" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="26b066acb0569cc40a9bc531ed9bd578" Name="Assets/GameMain/Assets/UI/Battle_atlas0.png" Length="545270" HashCode="-1748546241" />
+          <Asset Guid="fa8367caf991c5e46814a3bd527d6614" Name="Assets/GameMain/Assets/UI/Battle_fui.bytes" Length="27759" HashCode="-188446325" />
+        </Assets>
+        <Codes>
+          <Windows Length="310590" HashCode="-764939626" CompressedLength="277637" CompressedHashCode="-184491908" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Boss" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="3589bc290c33fe946ba2c5f69342ac6e" Name="Assets/GameMain/Assets/UI/Boss_atlas0.png" Length="203441" HashCode="624186306" />
+          <Asset Guid="db28a7237089020428888d41017122a8" Name="Assets/GameMain/Assets/UI/Boss_fui.bytes" Length="11040" HashCode="-461870056" />
+        </Assets>
+        <Codes>
+          <Windows Length="109343" HashCode="693478616" CompressedLength="96792" CompressedHashCode="-861591729" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Chat" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="0b69bf8aeebb00547bcdd16379b8679d" Name="Assets/GameMain/Assets/UI/Chat_atlas0.png" Length="330863" HashCode="-260792092" />
+          <Asset Guid="36889365fa381274caa5d8be199d1557" Name="Assets/GameMain/Assets/UI/Chat_fui.bytes" Length="12180" HashCode="-999414775" />
+        </Assets>
+        <Codes>
+          <Windows Length="186827" HashCode="673549747" CompressedLength="152362" CompressedHashCode="661325439" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/CommonComponents" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="5c9593861f9f4034eac74b75a8c313a4" Name="Assets/GameMain/Assets/UI/CommonComponents_fui.bytes" Length="38823" HashCode="1931951319" />
+        </Assets>
+        <Codes>
+          <Windows Length="13192" HashCode="-1641456202" CompressedLength="11359" CompressedHashCode="-1764456137" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/CommonImages" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="d9ad974f881ea4e4ea586623f86d9703" Name="Assets/GameMain/Assets/UI/CommonImages_fui.bytes" Length="13970" HashCode="-1789185914" />
+          <Asset Guid="e947e6e31b6cea54880d22f5742254ca" Name="Assets/GameMain/Assets/UI/CommonImages_atlas0.png" Length="981347" HashCode="2079179954" />
+        </Assets>
+        <Codes>
+          <Windows Length="599655" HashCode="1975104423" CompressedLength="522781" CompressedHashCode="-145081929" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Dungeon" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="c85b09a938171644f8946ff20ec91a74" Name="Assets/GameMain/Assets/UI/Dungeon_atlas0.png" Length="781668" HashCode="407403425" />
+          <Asset Guid="e5549b61ec7bc0f49a57384209e35d31" Name="Assets/GameMain/Assets/UI/Dungeon_fui.bytes" Length="28964" HashCode="878341041" />
+        </Assets>
+        <Codes>
+          <Windows Length="423746" HashCode="-879282125" CompressedLength="367708" CompressedHashCode="-998112818" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Equip" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="3340db5976817524fbb8f7953a77ba1c" Name="Assets/GameMain/Assets/UI/Equip_atlas0.png" Length="1181734" HashCode="-476776465" />
+          <Asset Guid="641ce82f3d01e9a46874d066ca479b56" Name="Assets/GameMain/Assets/UI/Equip_fui.bytes" Length="23121" HashCode="-1166947736" />
+        </Assets>
+        <Codes>
+          <Windows Length="550370" HashCode="155055180" CompressedLength="477078" CompressedHashCode="-979149030" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Font" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="6f5f4ca275b82924db306d11737de697" Name="Assets/GameMain/Assets/UI/Font_atlas0.png" Length="85374" HashCode="-71717851" />
+          <Asset Guid="c46f4474d1e8257409f31f9491da372e" Name="Assets/GameMain/Assets/UI/Font_fui.bytes" Length="12634" HashCode="-603326199" />
+        </Assets>
+        <Codes>
+          <Windows Length="65049" HashCode="-477157961" CompressedLength="57454" CompressedHashCode="-530483014" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Formation" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="1db5a6ade0615f845b0cd9c5f2dd3f1b" Name="Assets/GameMain/Assets/UI/Formation_atlas0.png" Length="11138" HashCode="1660089512" />
+          <Asset Guid="965f7b88d28c3c1479b448975db143da" Name="Assets/GameMain/Assets/UI/Formation_fui.bytes" Length="8661" HashCode="-1375309546" />
+        </Assets>
+        <Codes>
+          <Windows Length="14325" HashCode="-26548054" CompressedLength="12074" CompressedHashCode="-1760225565" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Friend" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="72de728386a82cd4986e711e3b8d5ce2" Name="Assets/GameMain/Assets/UI/Friend_fui.bytes" Length="20957" HashCode="-1976396190" />
+          <Asset Guid="e35042f05e200124f9e29d893fe319ac" Name="Assets/GameMain/Assets/UI/Friend_atlas0.png" Length="60403" HashCode="400762007" />
+        </Assets>
+        <Codes>
+          <Windows Length="41181" HashCode="1111432732" CompressedLength="36530" CompressedHashCode="395717261" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Guild" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="1b2e8d6ad14a06d48a4229cf9dc8a617" Name="Assets/GameMain/Assets/UI/Guild_atlas0.png" Length="117346" HashCode="-293316767" />
+          <Asset Guid="c71425ba8de232148a904e6363edfca9" Name="Assets/GameMain/Assets/UI/Guild_fui.bytes" Length="27334" HashCode="-1059120620" />
+        </Assets>
+        <Codes>
+          <Windows Length="59001" HashCode="148708928" CompressedLength="51866" CompressedHashCode="-1375055605" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/GuildReward" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="483109b4a5806144aa6e7f3e0c5761ad" Name="Assets/GameMain/Assets/UI/GuildReward_fui.bytes" Length="15310" HashCode="1010028725" />
+          <Asset Guid="e53945125e5425b40a07a391bec25ee7" Name="Assets/GameMain/Assets/UI/GuildReward_atlas0.png" Length="673582" HashCode="623130215" />
+        </Assets>
+        <Codes>
+          <Windows Length="268527" HashCode="-979582848" CompressedLength="236755" CompressedHashCode="-1402087134" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Halidom" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="4c7980f4de7b8244eb484eb6315db696" Name="Assets/GameMain/Assets/UI/Halidom_fui.bytes" Length="16192" HashCode="401115787" />
+          <Asset Guid="a0f368c0e49cdd24ab79913a0c241710" Name="Assets/GameMain/Assets/UI/Halidom_atlas0.png" Length="95695" HashCode="1653924396" />
+        </Assets>
+        <Codes>
+          <Windows Length="64807" HashCode="-1954206101" CompressedLength="59442" CompressedHashCode="-581448275" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Home" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="298122a9a50160c4fa193a29bdc14bec" Name="Assets/GameMain/Assets/UI/Home_atlas0.png" Length="229958" HashCode="-550334611" />
+          <Asset Guid="e768f151bfd5eac4b938d1fe4efc037f" Name="Assets/GameMain/Assets/UI/Home_fui.bytes" Length="33951" HashCode="-567373624" />
+        </Assets>
+        <Codes>
+          <Windows Length="193093" HashCode="863096981" CompressedLength="167859" CompressedHashCode="2144125764" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Library" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="748104193c5dcc34ea0ab0da7713cc09" Name="Assets/GameMain/Assets/UI/Library_fui.bytes" Length="6822" HashCode="-422503068" />
+        </Assets>
+        <Codes>
+          <Windows Length="4223" HashCode="1444037687" CompressedLength="3565" CompressedHashCode="654428677" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Loading" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="0c03864aaf9898548883f9899f2ee803" Name="Assets/GameMain/Assets/UI/Loading_atlas0.png" Length="158" HashCode="-928045288" />
+          <Asset Guid="5d76e249c2b75704b99a629cacf5bfab" Name="Assets/GameMain/Assets/UI/Loading_fui.bytes" Length="1740" HashCode="1235527492" />
+        </Assets>
+        <Codes>
+          <Windows Length="3381" HashCode="2012371189" CompressedLength="2848" CompressedHashCode="1299727598" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Login" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="52e061b0eb207624788acdb05274e1b7" Name="Assets/GameMain/Assets/UI/Login_atlas0.png" Length="20219" HashCode="-1321716234" />
+          <Asset Guid="b258e9580c8892b4382974b6704cd615" Name="Assets/GameMain/Assets/UI/Login_fui.bytes" Length="5713" HashCode="-1743751591" />
+        </Assets>
+        <Codes>
+          <Windows Length="24216" HashCode="1649115719" CompressedLength="19457" CompressedHashCode="-1636373991" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Mail" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="8510cb02e2c15c0429ddb615c4d29d32" Name="Assets/GameMain/Assets/UI/Mail_fui.bytes" Length="3718" HashCode="-2031637905" />
+        </Assets>
+        <Codes>
+          <Windows Length="2848" HashCode="1188291523" CompressedLength="2391" CompressedHashCode="1622326125" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/MainCity" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="7440ad27816bcca4f9402e2069ecd5de" Name="Assets/GameMain/Assets/UI/MainCity_fui.bytes" Length="6574" HashCode="1782569839" />
+          <Asset Guid="a00e389b178954c4c95176004d1a6ad4" Name="Assets/GameMain/Assets/UI/MainCity_atlas0.png" Length="61609" HashCode="-662420807" />
+        </Assets>
+        <Codes>
+          <Windows Length="39276" HashCode="2108039321" CompressedLength="33622" CompressedHashCode="226842698" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/MainUI" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="ba38cd692a886d94c883c0bde2721d97" Name="Assets/GameMain/Assets/UI/MainUI_atlas0.png" Length="242112" HashCode="1558006144" />
+          <Asset Guid="c42f15ea2b18f3540a441f6958a68406" Name="Assets/GameMain/Assets/UI/MainUI_fui.bytes" Length="5342" HashCode="228724954" />
+        </Assets>
+        <Codes>
+          <Windows Length="117598" HashCode="-2005853442" CompressedLength="106111" CompressedHashCode="720072989" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Mission" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="23c5e456a600d1143abeb3cf42affcff" Name="Assets/GameMain/Assets/UI/Mission_atlas0.png" Length="79678" HashCode="-1591689906" />
+          <Asset Guid="51294aaf43320974eac5b872146fc810" Name="Assets/GameMain/Assets/UI/Mission_fui.bytes" Length="5988" HashCode="1917653524" />
+        </Assets>
+        <Codes>
+          <Windows Length="50327" HashCode="1250323092" CompressedLength="44733" CompressedHashCode="1963196873" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/NPCDialogue" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="b611c2ca9ea8b1b4897edd650f78cec2" Name="Assets/GameMain/Assets/UI/NPCDialogue_atlas0.png" Length="21311" HashCode="-1353261405" />
+          <Asset Guid="ca372e4705c679b4dbb012851a601b49" Name="Assets/GameMain/Assets/UI/NPCDialogue_fui.bytes" Length="3780" HashCode="1868367791" />
+        </Assets>
+        <Codes>
+          <Windows Length="23398" HashCode="98280226" CompressedLength="20812" CompressedHashCode="2118388178" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Pata" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="7e2ebc523fcb15b449c3abb9cfad908e" Name="Assets/GameMain/Assets/UI/Pata_fui.bytes" Length="3174" HashCode="321193461" />
+        </Assets>
+        <Codes>
+          <Windows Length="2662" HashCode="537374856" CompressedLength="2245" CompressedHashCode="-450897888" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Pet" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="4b050f55d140ebf458cd09c47d4832f5" Name="Assets/GameMain/Assets/UI/Pet_atlas0.png" Length="817792" HashCode="-908500575" />
+          <Asset Guid="a6b43954df9909847b1476f568089442" Name="Assets/GameMain/Assets/UI/Pet_fui.bytes" Length="87870" HashCode="1371353979" />
+        </Assets>
+        <Codes>
+          <Windows Length="479326" HashCode="1113123953" CompressedLength="428028" CompressedHashCode="964836117" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Role" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="af851d7d1763c6e448b5c62122748d64" Name="Assets/GameMain/Assets/UI/Role_fui.bytes" Length="27323" HashCode="878561752" />
+          <Asset Guid="cc18ec5b9ec88704080830441ba6d662" Name="Assets/GameMain/Assets/UI/Role_atlas0.png" Length="87302" HashCode="1979710218" />
+        </Assets>
+        <Codes>
+          <Windows Length="71256" HashCode="122834007" CompressedLength="62271" CompressedHashCode="-250002030" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Setting" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="19d10ef14952123448b13744351bbd85" Name="Assets/GameMain/Assets/UI/Setting_atlas0.png" Length="22876" HashCode="1443699290" />
+          <Asset Guid="8c331525f2b7e5c42894e293d8c6b4b9" Name="Assets/GameMain/Assets/UI/Setting_fui.bytes" Length="19055" HashCode="-1853119456" />
+        </Assets>
+        <Codes>
+          <Windows Length="26309" HashCode="291620374" CompressedLength="22883" CompressedHashCode="-805206425" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Ship" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="143db53f123dace4789f6f52551bda29" Name="Assets/GameMain/Assets/UI/Ship_atlas0.png" Length="149463" HashCode="-1195811493" />
+          <Asset Guid="b03bcb00e982a994a8a572b9e83cc233" Name="Assets/GameMain/Assets/UI/Ship_fui.bytes" Length="10068" HashCode="-1209475457" />
+        </Assets>
+        <Codes>
+          <Windows Length="70355" HashCode="1464452035" CompressedLength="62007" CompressedHashCode="723534880" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Shop" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="35b51391fb98e374f933e27ba809668f" Name="Assets/GameMain/Assets/UI/Shop_fui.bytes" Length="11946" HashCode="174425583" />
+          <Asset Guid="a8f883c64310151439f59c975d2893bd" Name="Assets/GameMain/Assets/UI/Shop_atlas0.png" Length="58796" HashCode="-1333926117" />
+        </Assets>
+        <Codes>
+          <Windows Length="38150" HashCode="-2108713224" CompressedLength="33554" CompressedHashCode="-617889483" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/StarSign" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="33ea1a3e54837424c87f4a6c569621df" Name="Assets/GameMain/Assets/UI/StarSign_atlas0.png" Length="172883" HashCode="1049923207" />
+          <Asset Guid="d445df561df9fc14da9bce5f51fd5dd7" Name="Assets/GameMain/Assets/UI/StarSign_fui.bytes" Length="16903" HashCode="-1244423737" />
+        </Assets>
+        <Codes>
+          <Windows Length="128584" HashCode="437596285" CompressedLength="114325" CompressedHashCode="1033814290" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/Tree" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="5844746995ad3b74cae867167f95dcbb" Name="Assets/GameMain/Assets/UI/Tree_atlas0.png" Length="56867" HashCode="-564615806" />
+          <Asset Guid="d38d8129a90da684cb422be1c664d4a5" Name="Assets/GameMain/Assets/UI/Tree_fui.bytes" Length="17106" HashCode="-1287128289" />
+        </Assets>
+        <Codes>
+          <Windows Length="47457" HashCode="-1934624675" CompressedLength="40495" CompressedHashCode="-1745759428" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/World" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="a3f9a4827de0d9d4982dd66f6e88e511" Name="Assets/GameMain/Assets/UI/World_atlas0.png" Length="140990" HashCode="-258495641" />
+          <Asset Guid="a9396011e08f34842a59e50617c09039" Name="Assets/GameMain/Assets/UI/World_fui.bytes" Length="31876" HashCode="1707608987" />
+        </Assets>
+        <Codes>
+          <Windows Length="83952" HashCode="2061097455" CompressedLength="74527" CompressedHashCode="-528359729" />
+        </Codes>
+      </Resource>
+    </Resources>
+  </BuildReport>
+</UnityGameFramework>

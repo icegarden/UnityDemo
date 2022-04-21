@@ -1,0 +1,48 @@
+message GetBag_C
+{
+    option (cmd) = 21;
+}
+
+message GetBag_S
+{
+    option (cmd) = 22;
+    required EquipListDTO equipList = 1;//装备集合
+    required PropListDTO propList = 2;//道具集合
+}
+
+message ItemIdListDTO
+{
+    repeated int32 itemId = 1;//物品唯一实例id
+}
+
+message EquipListDTO
+{
+    repeated EquipDTO equips = 1;//装备集合
+}
+
+message PropListDTO
+{
+    repeated PropDTO props = 1;//道具集合
+}
+
+
+message EquipDTO
+{
+    required ItemDTO item = 1;//物品通用结构体
+    required int32 count = 2;//道具数量
+    optional int32 exp = 3;//装备经验
+    optional int32 element=4;//装备亲和元素
+}
+
+message PropDTO
+{
+    required ItemDTO item = 1;//物品通用结构体
+    required int32 count = 2;//道具数量
+}
+
+message ItemDTO
+{
+    optional int32 cfgId = 1;//物品配置编号
+    optional int32 itemId = 2;//物品唯一实例id
+}
+

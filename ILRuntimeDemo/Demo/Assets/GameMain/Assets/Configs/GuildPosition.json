@@ -1,0 +1,1 @@
+[{"id":1,"name":"会长","desc":"拥有管理公会成员，设置公会信息的职责","authorityClient":[1,2,3,4,5,6],"authority":[1,2,3,4,5,6,7,8,9,10,11],"icon":"T_Guild_Icon_03","count":1},{"id":2,"name":"副会长","desc":"拥有管理公会成员的职责","authorityClient":[2,3,5,6],"authority":[2,3,5,6,9,11],"icon":"T_Guild_Icon_04","count":2},{"id":3,"name":"成员","authorityClient":[5,6],"authority":[5,6,11],"count":999}]

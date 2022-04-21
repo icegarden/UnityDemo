@@ -1,0 +1,12 @@
+{
+    "ForceUpdateGame":false,
+    "LatestGameVersion":"0.1.1",
+    "InternalGameVersion":0,
+    "InternalResourceVersion":1,
+    "UpdatePrefixUri":"http://192.168.1.3:9000/Demo/",
+    "VersionListLength":18876,
+    "VersionListHashCode":-150871495,
+    "VersionListCompressedLength":4930,
+    "VersionListCompressedHashCode":2107601608,
+    "END_OF_JSON": ""
+}

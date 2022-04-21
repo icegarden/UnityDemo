@@ -1,0 +1,146 @@
+
+dianji.png
+size: 852,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw_00
+  rotate: false
+  xy: 708, 429
+  size: 105, 106
+  orig: 288, 224
+  offset: 92, 61
+  index: -1
+zw_01
+  rotate: false
+  xy: 708, 537
+  size: 142, 142
+  orig: 288, 224
+  offset: 75, 42
+  index: -1
+zw_02
+  rotate: false
+  xy: 701, 186
+  size: 145, 146
+  orig: 288, 224
+  offset: 73, 40
+  index: -1
+zw_03
+  rotate: false
+  xy: 494, 7
+  size: 145, 148
+  orig: 288, 224
+  offset: 73, 39
+  index: -1
+zw_04
+  rotate: false
+  xy: 641, 24
+  size: 146, 148
+  orig: 288, 224
+  offset: 73, 39
+  index: -1
+zw_05
+  rotate: false
+  xy: 181, 2
+  size: 145, 153
+  orig: 288, 224
+  offset: 73, 37
+  index: -1
+zw_06
+  rotate: false
+  xy: 552, 174
+  size: 147, 158
+  orig: 288, 224
+  offset: 71, 34
+  index: -1
+zw_07
+  rotate: true
+  xy: 328, 7
+  size: 148, 164
+  orig: 288, 224
+  offset: 69, 30
+  index: -1
+zw_08
+  rotate: false
+  xy: 551, 334
+  size: 155, 168
+  orig: 288, 224
+  offset: 64, 28
+  index: -1
+zw_09
+  rotate: true
+  xy: 376, 157
+  size: 164, 174
+  orig: 288, 224
+  offset: 60, 24
+  index: -1
+zw_10
+  rotate: false
+  xy: 376, 323
+  size: 173, 179
+  orig: 288, 224
+  offset: 55, 21
+  index: -1
+zw_11
+  rotate: false
+  xy: 193, 269
+  size: 181, 185
+  orig: 288, 224
+  offset: 51, 16
+  index: -1
+zw_12
+  rotate: false
+  xy: 2, 263
+  size: 189, 191
+  orig: 288, 224
+  offset: 46, 12
+  index: -1
+zw_13
+  rotate: false
+  xy: 409, 668
+  size: 196, 182
+  orig: 288, 224
+  offset: 42, 8
+  index: -1
+zw_14
+  rotate: false
+  xy: 2, 456
+  size: 203, 191
+  orig: 288, 224
+  offset: 38, 3
+  index: -1
+zw_15
+  rotate: false
+  xy: 209, 654
+  size: 198, 196
+  orig: 288, 224
+  offset: 35, 0
+  index: -1
+zw_16
+  rotate: false
+  xy: 2, 649
+  size: 205, 201
+  orig: 288, 224
+  offset: 32, 0
+  index: -1
+zw_17
+  rotate: false
+  xy: 409, 504
+  size: 192, 162
+  orig: 288, 224
+  offset: 49, 41
+  index: -1
+zw_18
+  rotate: false
+  xy: 607, 681
+  size: 199, 169
+  orig: 288, 224
+  offset: 46, 37
+  index: -1
+zw_19
+  rotate: true
+  xy: 2, 61
+  size: 200, 177
+  orig: 288, 224
+  offset: 48, 32
+  index: -1

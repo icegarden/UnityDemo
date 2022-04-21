@@ -1,0 +1,7782 @@
+[
+    {
+        "id": 1000,
+        "name": "金币",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "游戏中的基础货币，主要通过挂机战斗获得，用于魔宠升级、装备洗炼等日常消耗",
+        "chip": 0
+    },
+    {
+        "id": 1001,
+        "name": "钻石",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "通过系统产出或充值获得，是游戏中较为稀有的货币",
+        "chip": 0
+    },
+    {
+        "id": 1002,
+        "name": "主角经验",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "主角升级",
+        "chip": 0
+    },
+    {
+        "id": 1003,
+        "name": "宠物经验",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "宠物升级",
+        "chip": 0
+    },
+    {
+        "id": 1004,
+        "name": "铁砂矿",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "世界天赋升级",
+        "chip": 0
+    },
+    {
+        "id": 1005,
+        "name": "魔晶矿",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "世界天赋升级",
+        "chip": 0
+    },
+    {
+        "id": 1006,
+        "name": "生命泉水",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "繁育生命之树的神圣泉水，挂机获得，集齐一定数量可解锁生命之树的英雄槽位",
+        "chip": 0
+    },
+    {
+        "id": 1007,
+        "name": "成长精华",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "首次获得或提升精英级英雄的品质时可获得，用于提升生命赐福等级",
+        "chip": 0
+    },
+    {
+        "id": 1008,
+        "name": "友情点",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 0,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "通过好友赠送获得，可用于兑换英雄",
+        "chip": 0
+    },
+    {
+        "id": 1101,
+        "name": "混沌能量",
+        "type": 1,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "升级英雄星力的材料",
+        "chip": 0
+    },
+    {
+        "id": 2000,
+        "name": "狂暴之魂",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2001,
+        "name": "守护之魂",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2002,
+        "name": "魔能之魂",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2003,
+        "name": "辅助之魂",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2004,
+        "name": "冒险之魂",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2005,
+        "name": "狂暴之魂",
+        "icon": "item_2000",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2006,
+        "name": "守护之魂",
+        "icon": "item_2001",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2007,
+        "name": "魔能之魂",
+        "icon": "item_2002",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2008,
+        "name": "辅助之魂",
+        "icon": "item_2003",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2009,
+        "name": "冒险之魂",
+        "icon": "item_2004",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2010,
+        "name": "狂暴之魂",
+        "icon": "item_2000",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2011,
+        "name": "守护之魂",
+        "icon": "item_2001",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2012,
+        "name": "魔能之魂",
+        "icon": "item_2002",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2013,
+        "name": "辅助之魂",
+        "icon": "item_2003",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2014,
+        "name": "冒险之魂",
+        "icon": "item_2004",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔宠进化需要消耗相同同品质、相同类型的魔宠之魂",
+        "chip": 0
+    },
+    {
+        "id": 2021,
+        "name": "魔力精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            100
+        ],
+        "useFor": [
+            1
+        ],
+        "desc": "魔宠每10级提升技能消耗",
+        "chip": 0
+    },
+    {
+        "id": 2025,
+        "name": "觉醒之魂",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "魔宠觉醒消耗道具",
+        "chip": 0
+    },
+    {
+        "id": 2030,
+        "name": "铁衫木",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "铁衫木，建设家园的消耗材料",
+        "chip": 0
+    },
+    {
+        "id": 2031,
+        "name": "火铜矿",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "火铜矿，建设家园的消耗材料",
+        "chip": 0
+    },
+    {
+        "id": 2032,
+        "name": "蓝宝石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "蓝宝石，建设家园的消耗材料",
+        "chip": 0
+    },
+    {
+        "id": 2033,
+        "name": "火灵石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "火灵石，建设家园的消耗材料",
+        "chip": 0
+    },
+    {
+        "id": 2034,
+        "name": "红玉竺",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "红玉竺，建设家园的消耗材料",
+        "chip": 0
+    },
+    {
+        "id": 2035,
+        "name": "秘银矿",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "秘银矿，建设家园的消耗材料",
+        "chip": 0
+    },
+    {
+        "id": 2036,
+        "name": "紫宝石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "紫宝石，建设家园的消耗材料",
+        "chip": 0
+    },
+    {
+        "id": 2037,
+        "name": "虚空石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "虚空石，建设家园的消耗材料",
+        "chip": 0
+    },
+    {
+        "id": 2040,
+        "name": "初级化肥",
+        "type": 12,
+        "subType": 0,
+        "parameters": 600,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 4,
+        "displayType": 3,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "compose": [
+            [
+                2041,
+                2
+            ],
+            [
+                2042,
+                4
+            ],
+            [
+                2043,
+                8
+            ]
+        ],
+        "desc": "缩减作物成熟时间10分钟",
+        "chip": 0
+    },
+    {
+        "id": 2041,
+        "name": "中级化肥",
+        "type": 12,
+        "subType": 0,
+        "parameters": 1800,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 4,
+        "displayType": 3,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "compose": [
+            [
+                2042,
+                2
+            ],
+            [
+                2043,
+                4
+            ]
+        ],
+        "resolve": [
+            [
+                2040,
+                2
+            ]
+        ],
+        "desc": "缩减作物成熟时间30分钟",
+        "chip": 0
+    },
+    {
+        "id": 2042,
+        "name": "高级化肥",
+        "type": 12,
+        "subType": 0,
+        "parameters": 3600,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 4,
+        "displayType": 3,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "compose": [
+            [
+                2043,
+                2
+            ]
+        ],
+        "resolve": [
+            [
+                2040,
+                4
+            ],
+            [
+                2041,
+                2
+            ]
+        ],
+        "desc": "缩减作物成熟时间1小时",
+        "chip": 0
+    },
+    {
+        "id": 2043,
+        "name": "终级化肥",
+        "type": 12,
+        "subType": 0,
+        "parameters": 7200,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 4,
+        "displayType": 3,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "resolve": [
+            [
+                2040,
+                8
+            ],
+            [
+                2041,
+                4
+            ],
+            [
+                2042,
+                2
+            ]
+        ],
+        "desc": "缩减作物成熟时间2小时",
+        "chip": 0
+    },
+    {
+        "id": 2050,
+        "name": "魂石之灵",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "魔宠解锁魂石槽的重要道具",
+        "chip": 0
+    },
+    {
+        "id": 2051,
+        "name": "普通洗炼石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            7
+        ],
+        "desc": "通过分解装备获得，可以洗炼除史诗、套装外的装备的词缀属性",
+        "chip": 0
+    },
+    {
+        "id": 2052,
+        "name": "神级洗炼石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            7
+        ],
+        "desc": "通过分解装备获得，可以洗炼史诗、套装的词缀属性",
+        "chip": 0
+    },
+    {
+        "id": 2060,
+        "name": "初级附魔券",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            105
+        ],
+        "useFor": [
+            8
+        ],
+        "desc": "给魂石添加或重置附魔少量属性",
+        "chip": 0
+    },
+    {
+        "id": 2061,
+        "name": "中级附魔券",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            105
+        ],
+        "useFor": [
+            8
+        ],
+        "desc": "给魂石添加或重置附魔中量属性",
+        "chip": 0
+    },
+    {
+        "id": 2062,
+        "name": "高级附魔券",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            105
+        ],
+        "useFor": [
+            8
+        ],
+        "desc": "给魂石添加或重置附魔大量属性",
+        "chip": 0
+    },
+    {
+        "id": 2063,
+        "name": "终级附魔券",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            105
+        ],
+        "useFor": [
+            8
+        ],
+        "desc": "给魂石添加或重置附魔巨量属性",
+        "chip": 0
+    },
+    {
+        "id": 2071,
+        "name": "初级强化石",
+        "type": 19,
+        "subType": 0,
+        "parameters": 1,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            105
+        ],
+        "useFor": [
+            8
+        ],
+        "desc": "装备强化的初级材料",
+        "chip": 0
+    },
+    {
+        "id": 2072,
+        "name": "中级强化石",
+        "type": 19,
+        "subType": 0,
+        "parameters": 10,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            105
+        ],
+        "useFor": [
+            8
+        ],
+        "desc": "装备强化的中级材料",
+        "chip": 0
+    },
+    {
+        "id": 2073,
+        "name": "高级强化石",
+        "type": 19,
+        "subType": 0,
+        "parameters": 100,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            105
+        ],
+        "useFor": [
+            8
+        ],
+        "desc": "装备强化的初级材料",
+        "chip": 0
+    },
+    {
+        "id": 2100,
+        "name": "普通圣物精华",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "白色品质圣物升级",
+        "chip": 0
+    },
+    {
+        "id": 2101,
+        "name": "极品圣物精华",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "蓝色品质圣物升级",
+        "chip": 0
+    },
+    {
+        "id": 2102,
+        "name": "稀有圣物精华",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "紫色品质圣物升级",
+        "chip": 0
+    },
+    {
+        "id": 2103,
+        "name": "史诗圣物精华",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "每次挑战竞技场需要消耗的门票",
+        "chip": 0
+    },
+    {
+        "id": 2110,
+        "name": "竞技场挑战券",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "白色品质圣物升级",
+        "chip": 0
+    },
+    {
+        "id": 2401,
+        "name": "探索能量10",
+        "type": 17,
+        "subType": 0,
+        "parameters": 10,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 4,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "探索能量10",
+        "chip": 0
+    },
+    {
+        "id": 2402,
+        "name": "探索能量50",
+        "type": 17,
+        "subType": 0,
+        "parameters": 50,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 4,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "探索能量50",
+        "chip": 0
+    },
+    {
+        "id": 2403,
+        "name": "探索能量100",
+        "type": 17,
+        "subType": 0,
+        "parameters": 100,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 4,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "探索能量100",
+        "chip": 0
+    },
+    {
+        "id": 3000,
+        "name": "光精灵精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "战争女神分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3001,
+        "name": "花妖精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "蝶谷医仙分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3002,
+        "name": "幻龙精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "幻世魔龙分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3003,
+        "name": "巫妖精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "冰霜女巫分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3004,
+        "name": "米莱娜精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "兽耳萌娘分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3005,
+        "name": "爱丽丝精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "天籁之音分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3006,
+        "name": "塞米笛精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "不朽战士分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3007,
+        "name": "熊摩尔精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "首领之傲分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3008,
+        "name": "小蓓精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "万花仙子分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3009,
+        "name": "梅菲斯托精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "恶魔术士分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3010,
+        "name": "奥斯塔里精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "冥魂大帝分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3011,
+        "name": "费得提克精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "末日使者分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3012,
+        "name": "乌拉诺斯精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "深海泰坦分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3013,
+        "name": "露丝精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "冥魂女皇分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3014,
+        "name": "瓦莉拉精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "火焰盗贼分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3015,
+        "name": "拉斐尔精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "守护天使分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3016,
+        "name": "珍娜荷兹精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "海洋之灾分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3017,
+        "name": "崔利斯精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "黑夜游侠分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3018,
+        "name": "寇加尔精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "怪咖双子分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3019,
+        "name": "莉莱精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "冰封圣女分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3020,
+        "name": "瑞格沃精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "长矛骑士分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3021,
+        "name": "蜘蛛女皇精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "蜘蛛女皇分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3022,
+        "name": "熔岩怪兽精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "熔岩怪兽分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3023,
+        "name": "烈焰魔女精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "烈焰魔女分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3024,
+        "name": "全能战士精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "全能战士分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3025,
+        "name": "冥界蝮蛇精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "冥界蝮蛇分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3026,
+        "name": "铁甲犀牛精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "铁甲犀牛分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3027,
+        "name": "嗜血武姬精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "嗜血武姬分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3028,
+        "name": "太阳战神精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "太阳战神分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3029,
+        "name": "雷电法王精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "雷电法王分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3030,
+        "name": "弹珠战警精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "弹珠战警分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3031,
+        "name": "水之元素精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "元素刺客分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3032,
+        "name": "飞天螳螂精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "飞天螳螂分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3033,
+        "name": "沙漠死神精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "蜘蛛女皇分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3034,
+        "name": "深渊炮手精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "熔岩怪兽分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3035,
+        "name": "火狱魔箭精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "烈焰魔女分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3036,
+        "name": "冰霜魔龙精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "全能战士分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3037,
+        "name": "地狱火龙精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "冥界蝮蛇分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3038,
+        "name": "不屈长矛精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "铁甲犀牛分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3039,
+        "name": "雷霆骑士精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "嗜血武姬分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3040,
+        "name": "橡皮魔人精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "太阳战神分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3041,
+        "name": "亡灵屠夫精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "雷电法王分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3042,
+        "name": "大发明家精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "弹珠战警分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3043,
+        "name": "超能战甲精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "水之元素分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3044,
+        "name": "树精卫士精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "飞天螳螂分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3045,
+        "name": "狂野猎人精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "沙漠死神分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3046,
+        "name": "虚幻之灵精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "深渊炮手分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3047,
+        "name": "双刀战士精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "火狱魔箭分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3048,
+        "name": "魔岩龙龟精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "冰霜魔龙分解获得",
+        "chip": 0
+    },
+    {
+        "id": 3049,
+        "name": "月光精灵精粹",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "地狱火龙分解获得",
+        "chip": 0
+    },
+    {
+        "id": 4000,
+        "name": "神奇飞毯设计图",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "不屈长矛分解获得",
+        "chip": 0
+    },
+    {
+        "id": 4001,
+        "name": "魔法神灯设计图",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "雷霆骑士分解获得",
+        "chip": 0
+    },
+    {
+        "id": 4002,
+        "name": "荆棘堡垒设计图",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "橡皮魔人分解获得",
+        "chip": 0
+    },
+    {
+        "id": 4003,
+        "name": "圣魔之翼设计图",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "亡灵屠夫分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6000,
+        "name": "鉴定之石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "大发明家分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6001,
+        "name": "生命之符",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "超能战甲分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6002,
+        "name": "力量之符",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "树精卫士分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6003,
+        "name": "魔力之符",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "狂野猎人分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6004,
+        "name": "防御之符",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "虚幻之灵分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6005,
+        "name": "治疗之符",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "双刀战士分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6101,
+        "name": "双玉药剂",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "魔岩龙龟分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6102,
+        "name": "双玉之魂",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "月光精灵分解获得",
+        "chip": 0
+    },
+    {
+        "id": 6103,
+        "name": "三相星石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "出现三条词缀概率提高20%",
+        "chip": 0
+    },
+    {
+        "id": 6104,
+        "name": "三相月石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "出现三条词缀的最终概率增加10%",
+        "chip": 0
+    },
+    {
+        "id": 6105,
+        "name": "无光星尘",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "必定为两条以上词缀",
+        "chip": 0
+    },
+    {
+        "id": 6201,
+        "name": "紫魔原石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "紫色以上品质词缀概率提升50%",
+        "chip": 0
+    },
+    {
+        "id": 6202,
+        "name": "紫魔精石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "紫色以上品质词缀最终概率增加20%",
+        "chip": 0
+    },
+    {
+        "id": 6203,
+        "name": "紫魔星尘",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "必出一条紫色以上品质词缀",
+        "chip": 0
+    },
+    {
+        "id": 6204,
+        "name": "灼日星石",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            106
+        ],
+        "useFor": [
+            9
+        ],
+        "desc": "必出一条橙色品质词缀",
+        "chip": 0
+    },
+    {
+        "id": 7001,
+        "name": "摇杆",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "解开迷宫机关的物品之一",
+        "chip": 0
+    },
+    {
+        "id": 7002,
+        "name": "齿轮",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "解开迷宫机关的物品之一",
+        "chip": 0
+    },
+    {
+        "id": 7003,
+        "name": "齿轮轴",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "解开迷宫机关的物品之一",
+        "chip": 0
+    },
+    {
+        "id": 10000,
+        "name": "战争女神",
+        "type": 11,
+        "subType": 0,
+        "parameters": 1,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得战争女神",
+        "chip": 0
+    },
+    {
+        "id": 10001,
+        "name": "蝶谷医仙",
+        "type": 11,
+        "subType": 0,
+        "parameters": 2,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得蝶谷医仙",
+        "chip": 0
+    },
+    {
+        "id": 10002,
+        "name": "幻世魔龙",
+        "type": 11,
+        "subType": 0,
+        "parameters": 3,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得幻世魔龙",
+        "chip": 0
+    },
+    {
+        "id": 10003,
+        "name": "冰霜女巫",
+        "type": 11,
+        "subType": 0,
+        "parameters": 4,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冰霜女巫",
+        "chip": 0
+    },
+    {
+        "id": 10004,
+        "name": "兽耳萌娘",
+        "type": 11,
+        "subType": 0,
+        "parameters": 5,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得兽耳萌娘",
+        "chip": 0
+    },
+    {
+        "id": 10005,
+        "name": "天籁之音",
+        "type": 11,
+        "subType": 0,
+        "parameters": 6,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得天籁之音",
+        "chip": 0
+    },
+    {
+        "id": 10006,
+        "name": "不朽战士",
+        "type": 11,
+        "subType": 0,
+        "parameters": 7,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得不朽战士",
+        "chip": 0
+    },
+    {
+        "id": 10007,
+        "name": "首领之傲",
+        "type": 11,
+        "subType": 0,
+        "parameters": 8,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得首领之傲",
+        "chip": 0
+    },
+    {
+        "id": 10008,
+        "name": "万花仙子",
+        "type": 11,
+        "subType": 0,
+        "parameters": 9,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得万花仙子",
+        "chip": 0
+    },
+    {
+        "id": 10009,
+        "name": "恶魔术士",
+        "type": 11,
+        "subType": 0,
+        "parameters": 10,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得恶魔术士",
+        "chip": 0
+    },
+    {
+        "id": 10010,
+        "name": "冥魂大帝",
+        "type": 11,
+        "subType": 0,
+        "parameters": 11,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冥魂大帝",
+        "chip": 0
+    },
+    {
+        "id": 10011,
+        "name": "末日使者",
+        "type": 11,
+        "subType": 0,
+        "parameters": 12,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得末日使者",
+        "chip": 0
+    },
+    {
+        "id": 10012,
+        "name": "深海泰坦",
+        "type": 11,
+        "subType": 0,
+        "parameters": 13,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得深海泰坦",
+        "chip": 0
+    },
+    {
+        "id": 10013,
+        "name": "冥魂女皇",
+        "type": 11,
+        "subType": 0,
+        "parameters": 14,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冥魂女皇",
+        "chip": 0
+    },
+    {
+        "id": 10014,
+        "name": "火焰盗贼",
+        "type": 11,
+        "subType": 0,
+        "parameters": 15,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得火焰盗贼",
+        "chip": 0
+    },
+    {
+        "id": 10015,
+        "name": "守护天使",
+        "type": 11,
+        "subType": 0,
+        "parameters": 16,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得守护天使",
+        "chip": 0
+    },
+    {
+        "id": 10016,
+        "name": "海洋之灾",
+        "type": 11,
+        "subType": 0,
+        "parameters": 17,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得海洋之灾",
+        "chip": 0
+    },
+    {
+        "id": 10017,
+        "name": "黑夜游侠",
+        "type": 11,
+        "subType": 0,
+        "parameters": 18,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得黑夜游侠",
+        "chip": 0
+    },
+    {
+        "id": 10018,
+        "name": "怪咖双子",
+        "type": 11,
+        "subType": 0,
+        "parameters": 19,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得怪咖双子",
+        "chip": 0
+    },
+    {
+        "id": 10019,
+        "name": "冰封圣女",
+        "type": 11,
+        "subType": 0,
+        "parameters": 20,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冰封圣女",
+        "chip": 0
+    },
+    {
+        "id": 10020,
+        "name": "长矛骑士",
+        "type": 11,
+        "subType": 0,
+        "parameters": 21,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得长矛骑士",
+        "chip": 0
+    },
+    {
+        "id": 10021,
+        "name": "蜘蛛女皇",
+        "type": 11,
+        "subType": 0,
+        "parameters": 22,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得蜘蛛女皇",
+        "chip": 0
+    },
+    {
+        "id": 10022,
+        "name": "熔岩怪兽",
+        "type": 11,
+        "subType": 0,
+        "parameters": 23,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得熔岩怪兽",
+        "chip": 0
+    },
+    {
+        "id": 10023,
+        "name": "烈焰魔女",
+        "type": 11,
+        "subType": 0,
+        "parameters": 24,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得烈焰魔女",
+        "chip": 0
+    },
+    {
+        "id": 10024,
+        "name": "全能战士",
+        "type": 11,
+        "subType": 0,
+        "parameters": 25,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得全能战士",
+        "chip": 0
+    },
+    {
+        "id": 10025,
+        "name": "冥界蝮蛇",
+        "type": 11,
+        "subType": 0,
+        "parameters": 26,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冥界蝮蛇",
+        "chip": 0
+    },
+    {
+        "id": 10026,
+        "name": "铁甲犀牛",
+        "type": 11,
+        "subType": 0,
+        "parameters": 27,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得铁甲犀牛",
+        "chip": 0
+    },
+    {
+        "id": 10027,
+        "name": "嗜血武姬",
+        "type": 11,
+        "subType": 0,
+        "parameters": 28,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得嗜血武姬",
+        "chip": 0
+    },
+    {
+        "id": 10028,
+        "name": "太阳战神",
+        "type": 11,
+        "subType": 0,
+        "parameters": 29,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得太阳战神",
+        "chip": 0
+    },
+    {
+        "id": 10029,
+        "name": "雷电法王",
+        "type": 11,
+        "subType": 0,
+        "parameters": 30,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得雷电法王",
+        "chip": 0
+    },
+    {
+        "id": 10030,
+        "name": "弹珠战警",
+        "type": 11,
+        "subType": 0,
+        "parameters": 31,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得弹珠战警",
+        "chip": 0
+    },
+    {
+        "id": 10031,
+        "name": "元素刺客",
+        "type": 11,
+        "subType": 0,
+        "parameters": 32,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得元素刺客",
+        "chip": 0
+    },
+    {
+        "id": 10032,
+        "name": "飞天螳螂",
+        "type": 11,
+        "subType": 0,
+        "parameters": 33,
+        "level": 0,
+        "quality": 5,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得飞天螳螂",
+        "chip": 0
+    },
+    {
+        "id": 10033,
+        "name": "沙漠死神",
+        "type": 11,
+        "subType": 0,
+        "parameters": 34,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得沙漠死神",
+        "chip": 0
+    },
+    {
+        "id": 10034,
+        "name": "深渊炮手",
+        "type": 11,
+        "subType": 0,
+        "parameters": 35,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得深渊炮手",
+        "chip": 0
+    },
+    {
+        "id": 10035,
+        "name": "火狱魔箭",
+        "type": 11,
+        "subType": 0,
+        "parameters": 36,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得火狱魔箭",
+        "chip": 0
+    },
+    {
+        "id": 10036,
+        "name": "冰霜魔龙",
+        "type": 11,
+        "subType": 0,
+        "parameters": 37,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冰霜魔龙",
+        "chip": 0
+    },
+    {
+        "id": 10037,
+        "name": "地狱火龙",
+        "type": 11,
+        "subType": 0,
+        "parameters": 38,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得地狱火龙",
+        "chip": 0
+    },
+    {
+        "id": 10038,
+        "name": "不屈长矛",
+        "type": 11,
+        "subType": 0,
+        "parameters": 39,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得不屈长矛",
+        "chip": 0
+    },
+    {
+        "id": 10039,
+        "name": "雷霆骑士",
+        "type": 11,
+        "subType": 0,
+        "parameters": 40,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得雷霆骑士",
+        "chip": 0
+    },
+    {
+        "id": 10040,
+        "name": "橡皮魔人",
+        "type": 11,
+        "subType": 0,
+        "parameters": 41,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得橡皮魔人",
+        "chip": 0
+    },
+    {
+        "id": 10041,
+        "name": "亡灵屠夫",
+        "type": 11,
+        "subType": 0,
+        "parameters": 42,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得亡灵屠夫",
+        "chip": 0
+    },
+    {
+        "id": 10042,
+        "name": "大发明家",
+        "type": 11,
+        "subType": 0,
+        "parameters": 43,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得大发明家",
+        "chip": 0
+    },
+    {
+        "id": 10043,
+        "name": "超能战甲",
+        "type": 11,
+        "subType": 0,
+        "parameters": 44,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得超能战甲",
+        "chip": 0
+    },
+    {
+        "id": 10044,
+        "name": "树精卫士",
+        "type": 11,
+        "subType": 0,
+        "parameters": 45,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得树精卫士",
+        "chip": 0
+    },
+    {
+        "id": 10045,
+        "name": "狂野猎人",
+        "type": 11,
+        "subType": 0,
+        "parameters": 46,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得狂野猎人",
+        "chip": 0
+    },
+    {
+        "id": 10046,
+        "name": "虚幻之灵",
+        "type": 11,
+        "subType": 0,
+        "parameters": 47,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得虚幻之灵",
+        "chip": 0
+    },
+    {
+        "id": 10047,
+        "name": "双刀战士",
+        "type": 11,
+        "subType": 0,
+        "parameters": 48,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得双刀战士",
+        "chip": 0
+    },
+    {
+        "id": 10048,
+        "name": "魔岩龙龟",
+        "type": 11,
+        "subType": 0,
+        "parameters": 49,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得魔岩龙龟",
+        "chip": 0
+    },
+    {
+        "id": 10049,
+        "name": "月光精灵",
+        "type": 11,
+        "subType": 0,
+        "parameters": 50,
+        "level": 0,
+        "quality": 6,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得月光精灵",
+        "chip": 0
+    },
+    {
+        "id": 11000,
+        "name": "光精灵蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 1,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得战争女神",
+        "chip": 0
+    },
+    {
+        "id": 11001,
+        "name": "花妖蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 2,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得蝶谷医仙",
+        "chip": 0
+    },
+    {
+        "id": 11002,
+        "name": "幻龙蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 3,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得幻世魔龙",
+        "chip": 0
+    },
+    {
+        "id": 11003,
+        "name": "巫妖蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 4,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冰霜女巫",
+        "chip": 0
+    },
+    {
+        "id": 11004,
+        "name": "米莱娜蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 5,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得兽耳萌娘",
+        "chip": 0
+    },
+    {
+        "id": 11005,
+        "name": "爱丽丝蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 6,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得天籁之音",
+        "chip": 0
+    },
+    {
+        "id": 11006,
+        "name": "塞米笛蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 7,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得不朽战士",
+        "chip": 0
+    },
+    {
+        "id": 11007,
+        "name": "熊摩尔蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 8,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得首领之傲",
+        "chip": 0
+    },
+    {
+        "id": 11008,
+        "name": "小蓓蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 9,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得万花仙子",
+        "chip": 0
+    },
+    {
+        "id": 11009,
+        "name": "梅菲斯托蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 10,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得恶魔术士",
+        "chip": 0
+    },
+    {
+        "id": 11010,
+        "name": "奥斯塔里蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 11,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冥魂大帝",
+        "chip": 0
+    },
+    {
+        "id": 11011,
+        "name": "费得提克蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 12,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得末日使者",
+        "chip": 0
+    },
+    {
+        "id": 11012,
+        "name": "乌拉诺斯蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 13,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得深海泰坦",
+        "chip": 0
+    },
+    {
+        "id": 11013,
+        "name": "露丝蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 14,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冥魂女皇",
+        "chip": 0
+    },
+    {
+        "id": 11014,
+        "name": "瓦莉拉蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 15,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得火焰盗贼",
+        "chip": 0
+    },
+    {
+        "id": 11015,
+        "name": "拉斐尔蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 16,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得守护天使",
+        "chip": 0
+    },
+    {
+        "id": 11016,
+        "name": "珍娜荷兹蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 17,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得海洋之灾",
+        "chip": 0
+    },
+    {
+        "id": 11017,
+        "name": "崔利斯蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 18,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得黑夜游侠",
+        "chip": 0
+    },
+    {
+        "id": 11018,
+        "name": "寇加尔蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 19,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得怪咖双子",
+        "chip": 0
+    },
+    {
+        "id": 11019,
+        "name": "莉莱蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 20,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冰封圣女",
+        "chip": 0
+    },
+    {
+        "id": 11020,
+        "name": "瑞格沃蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 21,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得长矛骑士",
+        "chip": 0
+    },
+    {
+        "id": 11021,
+        "name": "蜘蛛女皇蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 22,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得蜘蛛女皇",
+        "chip": 0
+    },
+    {
+        "id": 11022,
+        "name": "熔岩怪兽蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 23,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得熔岩怪兽",
+        "chip": 0
+    },
+    {
+        "id": 11023,
+        "name": "烈焰魔女蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 24,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得烈焰魔女",
+        "chip": 0
+    },
+    {
+        "id": 11024,
+        "name": "全能战士蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 25,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得全能战士",
+        "chip": 0
+    },
+    {
+        "id": 11025,
+        "name": "冥界蝮蛇蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 26,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冥界蝮蛇",
+        "chip": 0
+    },
+    {
+        "id": 11026,
+        "name": "铁甲犀牛蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 27,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得铁甲犀牛",
+        "chip": 0
+    },
+    {
+        "id": 11027,
+        "name": "嗜血武姬蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 28,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得嗜血武姬",
+        "chip": 0
+    },
+    {
+        "id": 11028,
+        "name": "太阳战神蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 29,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得太阳战神",
+        "chip": 0
+    },
+    {
+        "id": 11029,
+        "name": "雷电法王蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 30,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得雷电法王",
+        "chip": 0
+    },
+    {
+        "id": 11030,
+        "name": "弹珠战警蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 31,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得弹珠战警",
+        "chip": 0
+    },
+    {
+        "id": 11031,
+        "name": "水之元素蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 32,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得元素刺客",
+        "chip": 0
+    },
+    {
+        "id": 11032,
+        "name": "飞天螳螂蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 33,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得飞天螳螂",
+        "chip": 0
+    },
+    {
+        "id": 11033,
+        "name": "沙漠死神蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 34,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得沙漠死神",
+        "chip": 0
+    },
+    {
+        "id": 11034,
+        "name": "深渊炮手蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 35,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得深渊炮手",
+        "chip": 0
+    },
+    {
+        "id": 11035,
+        "name": "火狱魔箭蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 36,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得火狱魔箭",
+        "chip": 0
+    },
+    {
+        "id": 11036,
+        "name": "冰霜魔龙蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 37,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得冰霜魔龙",
+        "chip": 0
+    },
+    {
+        "id": 11037,
+        "name": "地狱火龙蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 38,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得地狱火龙",
+        "chip": 0
+    },
+    {
+        "id": 11038,
+        "name": "不屈长矛蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 39,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得不屈长矛",
+        "chip": 0
+    },
+    {
+        "id": 11039,
+        "name": "雷霆骑士蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 40,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得雷霆骑士",
+        "chip": 0
+    },
+    {
+        "id": 11040,
+        "name": "橡皮魔人蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 41,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得橡皮魔人",
+        "chip": 0
+    },
+    {
+        "id": 11041,
+        "name": "亡灵屠夫蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 42,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得亡灵屠夫",
+        "chip": 0
+    },
+    {
+        "id": 11042,
+        "name": "大发明家蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 43,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得大发明家",
+        "chip": 0
+    },
+    {
+        "id": 11043,
+        "name": "超能战甲蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 44,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得超能战甲",
+        "chip": 0
+    },
+    {
+        "id": 11044,
+        "name": "树精卫士蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 45,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得树精卫士",
+        "chip": 0
+    },
+    {
+        "id": 11045,
+        "name": "狂野猎人蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 46,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得狂野猎人",
+        "chip": 0
+    },
+    {
+        "id": 11046,
+        "name": "虚幻之灵蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 47,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得虚幻之灵",
+        "chip": 0
+    },
+    {
+        "id": 11047,
+        "name": "双刀战士蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 48,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得双刀战士",
+        "chip": 0
+    },
+    {
+        "id": 11048,
+        "name": "魔岩龙龟蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 49,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得魔岩龙龟",
+        "chip": 0
+    },
+    {
+        "id": 11049,
+        "name": "月光精灵蛋",
+        "type": 6,
+        "subType": 0,
+        "parameters": 50,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "可以获得月光精灵",
+        "chip": 0
+    },
+    {
+        "id": 12000,
+        "name": "测试魔宠箱",
+        "type": 7,
+        "subType": 0,
+        "parameters": 1000,
+        "level": 0,
+        "quality": 1,
+        "stackCount": 100,
+        "bagTab": 1,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            102
+        ],
+        "desc": "随机开启一只宠物",
+        "chip": 0
+    },
+    {
+        "id": 13000,
+        "name": "小麦种子",
+        "type": 13,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 4,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "可在家园的农田中种植小麦",
+        "chip": 0
+    },
+    {
+        "id": 13001,
+        "name": "萝卜种子",
+        "type": 13,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 4,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "可在家园的农田中种植萝卜",
+        "chip": 0
+    },
+    {
+        "id": 13002,
+        "name": "玉米种子",
+        "type": 13,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 4,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "可在家园的农田中种植玉米",
+        "chip": 0
+    },
+    {
+        "id": 13003,
+        "name": "椰子种子",
+        "type": 13,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 4,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "可在家园的农田中种植椰子",
+        "chip": 0
+    },
+    {
+        "id": 13004,
+        "name": "南瓜种子",
+        "type": 13,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 4,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "可在家园的农田中种植南瓜",
+        "chip": 0
+    },
+    {
+        "id": 14000,
+        "name": "十年小麦",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 1,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "十年小麦",
+        "chip": 0
+    },
+    {
+        "id": 14001,
+        "name": "百年小麦",
+        "icon": "item_14000",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "百年小麦",
+        "chip": 0
+    },
+    {
+        "id": 14002,
+        "name": "千年小麦",
+        "icon": "item_14000",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "千年小麦",
+        "chip": 0
+    },
+    {
+        "id": 14003,
+        "name": "万年小麦",
+        "icon": "item_14000",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "万年小麦",
+        "chip": 0
+    },
+    {
+        "id": 14004,
+        "name": "十年萝卜",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 1,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "十年萝卜",
+        "chip": 0
+    },
+    {
+        "id": 14005,
+        "name": "百年萝卜",
+        "icon": "item_14004",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "百年萝卜",
+        "chip": 0
+    },
+    {
+        "id": 14006,
+        "name": "千年萝卜",
+        "icon": "item_14004",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "千年萝卜",
+        "chip": 0
+    },
+    {
+        "id": 14007,
+        "name": "万年萝卜",
+        "icon": "item_14004",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "万年萝卜",
+        "chip": 0
+    },
+    {
+        "id": 14008,
+        "name": "十年玉米",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 1,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "十年玉米",
+        "chip": 0
+    },
+    {
+        "id": 14009,
+        "name": "百年玉米",
+        "icon": "item_14008",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "百年玉米",
+        "chip": 0
+    },
+    {
+        "id": 14010,
+        "name": "千年玉米",
+        "icon": "item_14008",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "千年玉米",
+        "chip": 0
+    },
+    {
+        "id": 14011,
+        "name": "万年玉米",
+        "icon": "item_14008",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "万年玉米",
+        "chip": 0
+    },
+    {
+        "id": 14012,
+        "name": "十年椰子",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 1,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "十年椰子",
+        "chip": 0
+    },
+    {
+        "id": 14013,
+        "name": "百年椰子",
+        "icon": "item_14012",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "百年椰子",
+        "chip": 0
+    },
+    {
+        "id": 14014,
+        "name": "千年椰子",
+        "icon": "item_14012",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "千年椰子",
+        "chip": 0
+    },
+    {
+        "id": 14015,
+        "name": "万年椰子",
+        "icon": "item_14012",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "万年椰子",
+        "chip": 0
+    },
+    {
+        "id": 14016,
+        "name": "十年南瓜",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 1,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "十年南瓜",
+        "chip": 0
+    },
+    {
+        "id": 14017,
+        "name": "百年南瓜",
+        "icon": "item_14016",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "百年南瓜",
+        "chip": 0
+    },
+    {
+        "id": 14018,
+        "name": "千年南瓜",
+        "icon": "item_14016",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "千年南瓜",
+        "chip": 0
+    },
+    {
+        "id": 14019,
+        "name": "万年南瓜",
+        "icon": "item_14016",
+        "type": 2,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 99999,
+        "bagTab": 3,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "desc": "万年南瓜",
+        "chip": 0
+    },
+    {
+        "id": 16000,
+        "name": "暗夜之刃",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "暗夜之刃碎片",
+        "chip": 1
+    },
+    {
+        "id": 16001,
+        "name": "守护之盾",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "守护之盾碎片",
+        "chip": 1
+    },
+    {
+        "id": 16002,
+        "name": "刚毅护符",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "刚毅护符碎片",
+        "chip": 1
+    },
+    {
+        "id": 16003,
+        "name": "扭曲魔法书",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "扭曲魔法书碎片",
+        "chip": 1
+    },
+    {
+        "id": 16004,
+        "name": "骑士徽章",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "骑士徽章碎片",
+        "chip": 1
+    },
+    {
+        "id": 16005,
+        "name": "月影徽章",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "月影徽章碎片",
+        "chip": 1
+    },
+    {
+        "id": 16006,
+        "name": "财富徽章",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "财富徽章碎片",
+        "chip": 1
+    },
+    {
+        "id": 16007,
+        "name": "治愈药剂",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "治愈药剂碎片",
+        "chip": 1
+    },
+    {
+        "id": 16008,
+        "name": "琥珀项链",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "琥珀项链碎片",
+        "chip": 1
+    },
+    {
+        "id": 16009,
+        "name": "英灵宝环",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "英灵宝环碎片",
+        "chip": 1
+    },
+    {
+        "id": 16010,
+        "name": "水晶舞鞋",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "水晶舞鞋碎片",
+        "chip": 1
+    },
+    {
+        "id": 16011,
+        "name": "荆棘树枝",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "荆棘树枝碎片",
+        "chip": 1
+    },
+    {
+        "id": 16012,
+        "name": "海洋之心",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "海洋之心碎片",
+        "chip": 1
+    },
+    {
+        "id": 16013,
+        "name": "狂暴战斧",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "狂暴战斧碎片",
+        "chip": 1
+    },
+    {
+        "id": 16014,
+        "name": "烈焰法袍",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "烈焰法袍碎片",
+        "chip": 1
+    },
+    {
+        "id": 16015,
+        "name": "竞技指南",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "竞技指南碎片",
+        "chip": 1
+    },
+    {
+        "id": 16016,
+        "name": "海贼之证",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "海贼之证碎片",
+        "chip": 1
+    },
+    {
+        "id": 16017,
+        "name": "祈祷权杖",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "祈祷权杖碎片",
+        "chip": 1
+    },
+    {
+        "id": 16018,
+        "name": "圣神壁垒",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "圣神壁垒碎片",
+        "chip": 1
+    },
+    {
+        "id": 16019,
+        "name": "治愈之壶",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "治愈之壶碎片",
+        "chip": 1
+    },
+    {
+        "id": 16020,
+        "name": "冥使之琴",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "冥使之琴碎片",
+        "chip": 1
+    },
+    {
+        "id": 16021,
+        "name": "背叛之刃",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "背叛之刃碎片",
+        "chip": 1
+    },
+    {
+        "id": 16022,
+        "name": "暗影乌鸦",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "暗影乌鸦碎片",
+        "chip": 1
+    },
+    {
+        "id": 16023,
+        "name": "巨龙之心",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "巨龙之心碎片",
+        "chip": 1
+    },
+    {
+        "id": 16024,
+        "name": "杰克的怀表",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "杰克的怀表碎片",
+        "chip": 1
+    },
+    {
+        "id": 16025,
+        "name": "真理之书",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "真理之书碎片",
+        "chip": 1
+    },
+    {
+        "id": 16026,
+        "name": "荆棘之服",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "荆棘之服碎片",
+        "chip": 1
+    },
+    {
+        "id": 16027,
+        "name": "荆棘之血",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "荆棘之血碎片",
+        "chip": 1
+    },
+    {
+        "id": 16028,
+        "name": "诅咒娃娃",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "诅咒娃娃碎片",
+        "chip": 1
+    },
+    {
+        "id": 16029,
+        "name": "老船长的雪茄",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "老船长的雪茄碎片",
+        "chip": 1
+    },
+    {
+        "id": 16030,
+        "name": "灵魂之灯",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "灵魂之灯碎片",
+        "chip": 1
+    },
+    {
+        "id": 16031,
+        "name": "世界树之芽",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "世界树之芽碎片",
+        "chip": 1
+    },
+    {
+        "id": 16032,
+        "name": "恶魔南瓜",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "恶魔南瓜碎片",
+        "chip": 1
+    },
+    {
+        "id": 16033,
+        "name": "光明礼服",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "光明礼服碎片",
+        "chip": 1
+    },
+    {
+        "id": 16034,
+        "name": "光明之矛",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "光明之矛碎片",
+        "chip": 1
+    },
+    {
+        "id": 16035,
+        "name": "终息之泪",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "终息之泪碎片",
+        "chip": 1
+    },
+    {
+        "id": 16036,
+        "name": "无常法袍",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "无常法袍碎片",
+        "chip": 1
+    },
+    {
+        "id": 16037,
+        "name": "魔力飞毯",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "魔力飞毯碎片",
+        "chip": 1
+    },
+    {
+        "id": 16038,
+        "name": "恶魔之镜",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "恶魔之镜碎片",
+        "chip": 1
+    },
+    {
+        "id": 16039,
+        "name": "地狱猎犬",
+        "type": 14,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 4,
+        "stackCount": 999999,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "地狱猎犬碎片",
+        "chip": 1
+    },
+    {
+        "id": 20000,
+        "name": "测试1金币，钻石箱",
+        "type": 8,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 1,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "使用后获得金币、钻石、宠物经验（宝箱一个一个用）",
+        "chip": 0
+    },
+    {
+        "id": 20001,
+        "name": "测试2世界探索币箱",
+        "type": 8,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 1,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "使用后获得世界探索货币（宝箱一个一个用）",
+        "chip": 0
+    },
+    {
+        "id": 20002,
+        "name": "测试3道具、材料箱",
+        "type": 8,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 1,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "使用后获得材料道具（宝箱一个一个用）",
+        "chip": 0
+    },
+    {
+        "id": 20003,
+        "name": "测试4装备箱",
+        "type": 8,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 99999,
+        "bagTab": 1,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "使用后获得装备（宝箱一个一个用）",
+        "chip": 0
+    },
+    {
+        "id": 21000,
+        "name": "魂石任选箱",
+        "type": 9,
+        "subType": 0,
+        "parameters": 0,
+        "level": 0,
+        "quality": 3,
+        "stackCount": 99999,
+        "bagTab": 1,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            101,
+            102
+        ],
+        "useFor": [
+            2
+        ],
+        "desc": "可以任意选择需要的魂石",
+        "chip": 0
+    },
+    {
+        "id": 70001,
+        "name": "测试头像框",
+        "type": 18,
+        "subType": 0,
+        "parameters": 1,
+        "level": 0,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 0,
+        "displayType": 0,
+        "autoUse": 1,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "desc": "测试头像框，活动获得",
+        "chip": 0
+    },
+    {
+        "id": 80001,
+        "name": "王权1级",
+        "type": 10,
+        "subType": 1,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80002,
+        "name": "王权2级",
+        "icon": "item_80001",
+        "type": 10,
+        "subType": 1,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80003,
+        "name": "王权3级",
+        "icon": "item_80001",
+        "type": 10,
+        "subType": 1,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80004,
+        "name": "王权4级",
+        "icon": "item_80001",
+        "type": 10,
+        "subType": 1,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80005,
+        "name": "王权5级",
+        "icon": "item_80001",
+        "type": 10,
+        "subType": 1,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80006,
+        "name": "王权6级",
+        "icon": "item_80001",
+        "type": 10,
+        "subType": 1,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80101,
+        "name": "守护1级",
+        "type": 10,
+        "subType": 2,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80102,
+        "name": "守护2级",
+        "icon": "item_80101",
+        "type": 10,
+        "subType": 2,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80103,
+        "name": "守护3级",
+        "icon": "item_80101",
+        "type": 10,
+        "subType": 2,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80104,
+        "name": "守护4级",
+        "icon": "item_80101",
+        "type": 10,
+        "subType": 2,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80105,
+        "name": "守护5级",
+        "icon": "item_80101",
+        "type": 10,
+        "subType": 2,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80106,
+        "name": "守护6级",
+        "icon": "item_80101",
+        "type": 10,
+        "subType": 2,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80201,
+        "name": "命运1级",
+        "type": 10,
+        "subType": 3,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80202,
+        "name": "命运2级",
+        "icon": "item_80201",
+        "type": 10,
+        "subType": 3,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80203,
+        "name": "命运3级",
+        "icon": "item_80201",
+        "type": 10,
+        "subType": 3,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80204,
+        "name": "命运4级",
+        "icon": "item_80201",
+        "type": 10,
+        "subType": 3,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80205,
+        "name": "命运5级",
+        "icon": "item_80201",
+        "type": 10,
+        "subType": 3,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80206,
+        "name": "命运6级",
+        "icon": "item_80201",
+        "type": 10,
+        "subType": 3,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80301,
+        "name": "圣言1级",
+        "type": 10,
+        "subType": 4,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80302,
+        "name": "圣言2级",
+        "icon": "item_80301",
+        "type": 10,
+        "subType": 4,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80303,
+        "name": "圣言3级",
+        "icon": "item_80301",
+        "type": 10,
+        "subType": 4,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80304,
+        "name": "圣言4级",
+        "icon": "item_80301",
+        "type": 10,
+        "subType": 4,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80305,
+        "name": "圣言5级",
+        "icon": "item_80301",
+        "type": 10,
+        "subType": 4,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80306,
+        "name": "圣言6级",
+        "icon": "item_80301",
+        "type": 10,
+        "subType": 4,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80401,
+        "name": "要塞1级",
+        "type": 10,
+        "subType": 5,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80402,
+        "name": "要塞2级",
+        "icon": "item_80401",
+        "type": 10,
+        "subType": 5,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80403,
+        "name": "要塞3级",
+        "icon": "item_80401",
+        "type": 10,
+        "subType": 5,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80404,
+        "name": "要塞4级",
+        "icon": "item_80401",
+        "type": 10,
+        "subType": 5,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80405,
+        "name": "要塞5级",
+        "icon": "item_80401",
+        "type": 10,
+        "subType": 5,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80406,
+        "name": "要塞6级",
+        "icon": "item_80401",
+        "type": 10,
+        "subType": 5,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80501,
+        "name": "世界1级",
+        "type": 10,
+        "subType": 6,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80502,
+        "name": "世界2级",
+        "icon": "item_80501",
+        "type": 10,
+        "subType": 6,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80503,
+        "name": "世界3级",
+        "icon": "item_80501",
+        "type": 10,
+        "subType": 6,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80504,
+        "name": "世界4级",
+        "icon": "item_80501",
+        "type": 10,
+        "subType": 6,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80505,
+        "name": "世界5级",
+        "icon": "item_80501",
+        "type": 10,
+        "subType": 6,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 80506,
+        "name": "世界6级",
+        "icon": "item_80501",
+        "type": 10,
+        "subType": 6,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90001,
+        "name": "深渊1级",
+        "type": 10,
+        "subType": 7,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90002,
+        "name": "深渊2级",
+        "icon": "item_90001",
+        "type": 10,
+        "subType": 7,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90003,
+        "name": "深渊3级",
+        "icon": "item_90001",
+        "type": 10,
+        "subType": 7,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90004,
+        "name": "深渊4级",
+        "icon": "item_90001",
+        "type": 10,
+        "subType": 7,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90005,
+        "name": "深渊5级",
+        "icon": "item_90001",
+        "type": 10,
+        "subType": 7,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90006,
+        "name": "深渊6级",
+        "icon": "item_90001",
+        "type": 10,
+        "subType": 7,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90101,
+        "name": "宿命1级",
+        "type": 10,
+        "subType": 8,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90102,
+        "name": "宿命2级",
+        "icon": "item_90101",
+        "type": 10,
+        "subType": 8,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90103,
+        "name": "宿命3级",
+        "icon": "item_90101",
+        "type": 10,
+        "subType": 8,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90104,
+        "name": "宿命4级",
+        "icon": "item_90101",
+        "type": 10,
+        "subType": 8,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90105,
+        "name": "宿命5级",
+        "icon": "item_90101",
+        "type": 10,
+        "subType": 8,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90106,
+        "name": "宿命6级",
+        "icon": "item_90101",
+        "type": 10,
+        "subType": 8,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90201,
+        "name": "裁决1级",
+        "type": 10,
+        "subType": 9,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90202,
+        "name": "裁决2级",
+        "icon": "item_90201",
+        "type": 10,
+        "subType": 9,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90203,
+        "name": "裁决3级",
+        "icon": "item_90201",
+        "type": 10,
+        "subType": 9,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90204,
+        "name": "裁决4级",
+        "icon": "item_90201",
+        "type": 10,
+        "subType": 9,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90205,
+        "name": "裁决5级",
+        "icon": "item_90201",
+        "type": 10,
+        "subType": 9,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90206,
+        "name": "裁决6级",
+        "icon": "item_90201",
+        "type": 10,
+        "subType": 9,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90301,
+        "name": "法则1级",
+        "type": 10,
+        "subType": 10,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90302,
+        "name": "法则2级",
+        "icon": "item_90301",
+        "type": 10,
+        "subType": 10,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90303,
+        "name": "法则3级",
+        "icon": "item_90301",
+        "type": 10,
+        "subType": 10,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90304,
+        "name": "法则4级",
+        "icon": "item_90301",
+        "type": 10,
+        "subType": 10,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90305,
+        "name": "法则5级",
+        "icon": "item_90301",
+        "type": 10,
+        "subType": 10,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90306,
+        "name": "法则6级",
+        "icon": "item_90301",
+        "type": 10,
+        "subType": 10,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90401,
+        "name": "永恒1级",
+        "type": 10,
+        "subType": 11,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90402,
+        "name": "永恒2级",
+        "icon": "item_90401",
+        "type": 10,
+        "subType": 11,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90403,
+        "name": "永恒3级",
+        "icon": "item_90401",
+        "type": 10,
+        "subType": 11,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90404,
+        "name": "永恒4级",
+        "icon": "item_90401",
+        "type": 10,
+        "subType": 11,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90405,
+        "name": "永恒5级",
+        "icon": "item_90401",
+        "type": 10,
+        "subType": 11,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90406,
+        "name": "永恒6级",
+        "icon": "item_90401",
+        "type": 10,
+        "subType": 11,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90501,
+        "name": "永恒1级",
+        "type": 10,
+        "subType": 12,
+        "parameters": 0,
+        "level": 1,
+        "quality": 1,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90502,
+        "name": "永恒2级",
+        "icon": "item_90501",
+        "type": 10,
+        "subType": 12,
+        "parameters": 0,
+        "level": 2,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90503,
+        "name": "永恒3级",
+        "icon": "item_90501",
+        "type": 10,
+        "subType": 12,
+        "parameters": 0,
+        "level": 3,
+        "quality": 2,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90504,
+        "name": "永恒4级",
+        "icon": "item_90501",
+        "type": 10,
+        "subType": 12,
+        "parameters": 0,
+        "level": 4,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90505,
+        "name": "永恒5级",
+        "icon": "item_90501",
+        "type": 10,
+        "subType": 12,
+        "parameters": 0,
+        "level": 5,
+        "quality": 3,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    },
+    {
+        "id": 90506,
+        "name": "永恒6级",
+        "icon": "item_90501",
+        "type": 10,
+        "subType": 12,
+        "parameters": 0,
+        "level": 6,
+        "quality": 4,
+        "stackCount": 1,
+        "bagTab": 5,
+        "displayType": 0,
+        "autoUse": 0,
+        "minUseLevel": 0,
+        "maxUseLevel": 0,
+        "getWay": [
+            104
+        ],
+        "chip": 0
+    }
+]
